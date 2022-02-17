@@ -1,0 +1,2401 @@
+"Region","Year","AgeLow","AgeUp","Sex","Quantile","Deaths","Qx"
+"World",2000,5,9,"B","Lower",850443,6.99181
+"World",2000,5,9,"B","Point",870327,7.15447
+"World",2000,5,9,"B","Upper",895917,7.36424
+"World",2001,5,9,"B","Lower",824588,6.82889
+"World",2001,5,9,"B","Point",844187,6.99072
+"World",2001,5,9,"B","Upper",869198,7.1971
+"World",2002,5,9,"B","Lower",792463,6.58186
+"World",2002,5,9,"B","Point",811339,6.73822
+"World",2002,5,9,"B","Upper",837051,6.95104
+"World",2003,5,9,"B","Lower",782608,6.49037
+"World",2003,5,9,"B","Point",800591,6.63903
+"World",2003,5,9,"B","Upper",826405,6.85246
+"World",2004,5,9,"B","Lower",779246,6.43841
+"World",2004,5,9,"B","Point",798470,6.59678
+"World",2004,5,9,"B","Upper",823909,6.80634
+"World",2005,5,9,"B","Lower",732937,6.04252
+"World",2005,5,9,"B","Point",751619,6.19586
+"World",2005,5,9,"B","Upper",777166,6.40598
+"World",2006,5,9,"B","Lower",713144,5.86185
+"World",2006,5,9,"B","Point",731972,6.01624
+"World",2006,5,9,"B","Upper",758464,6.23337
+"World",2007,5,9,"B","Lower",676870,5.54288
+"World",2007,5,9,"B","Point",694541,5.6871
+"World",2007,5,9,"B","Upper",719667,5.8923
+"World",2008,5,9,"B","Lower",676136,5.51329
+"World",2008,5,9,"B","Point",694241,5.66061
+"World",2008,5,9,"B","Upper",721480,5.88174
+"World",2009,5,9,"B","Lower",642004,5.21121
+"World",2009,5,9,"B","Point",660515,5.36106
+"World",2009,5,9,"B","Upper",685882,5.56648
+"World",2010,5,9,"B","Lower",631879,5.10376
+"World",2010,5,9,"B","Point",650382,5.25253
+"World",2010,5,9,"B","Upper",676431,5.46259
+"World",2011,5,9,"B","Lower",598337,4.80178
+"World",2011,5,9,"B","Point",617019,4.95129
+"World",2011,5,9,"B","Upper",643526,5.1636
+"World",2012,5,9,"B","Lower",575162,4.57981
+"World",2012,5,9,"B","Point",595321,4.74006
+"World",2012,5,9,"B","Upper",621793,4.95025
+"World",2013,5,9,"B","Lower",561546,4.43238
+"World",2013,5,9,"B","Point",582237,4.59535
+"World",2013,5,9,"B","Upper",608862,4.80497
+"World",2014,5,9,"B","Lower",552170,4.31987
+"World",2014,5,9,"B","Point",573983,4.4903
+"World",2014,5,9,"B","Upper",602218,4.71051
+"World",2015,5,9,"B","Lower",535404,4.15579
+"World",2015,5,9,"B","Point",558706,4.33631
+"World",2015,5,9,"B","Upper",587192,4.55684
+"World",2016,5,9,"B","Lower",520453,4.00736
+"World",2016,5,9,"B","Point",545928,4.20313
+"World",2016,5,9,"B","Upper",574426,4.42202
+"World",2017,5,9,"B","Lower",504435,3.85652
+"World",2017,5,9,"B","Point",531275,4.06145
+"World",2017,5,9,"B","Upper",561408,4.29115
+"World",2018,5,9,"B","Lower",496292,3.77182
+"World",2018,5,9,"B","Point",525078,3.99021
+"World",2018,5,9,"B","Upper",555393,4.22006
+"World",2019,5,9,"B","Lower",487332,3.6859
+"World",2019,5,9,"B","Point",516971,3.90975
+"World",2019,5,9,"B","Upper",549117,4.15232
+"East Asia and Pacific",2000,5,9,"B","Lower",111247,3.2526
+"East Asia and Pacific",2000,5,9,"B","Point",120010,3.50863
+"East Asia and Pacific",2000,5,9,"B","Upper",130090,3.80256
+"East Asia and Pacific",2001,5,9,"B","Lower",103504,3.143
+"East Asia and Pacific",2001,5,9,"B","Point",111381,3.3818
+"East Asia and Pacific",2001,5,9,"B","Upper",120286,3.65188
+"East Asia and Pacific",2002,5,9,"B","Lower",95662,2.97692
+"East Asia and Pacific",2002,5,9,"B","Point",102561,3.19126
+"East Asia and Pacific",2002,5,9,"B","Upper",110500,3.43791
+"East Asia and Pacific",2003,5,9,"B","Lower",89768,2.82096
+"East Asia and Pacific",2003,5,9,"B","Point",96399,3.02898
+"East Asia and Pacific",2003,5,9,"B","Upper",103854,3.26282
+"East Asia and Pacific",2004,5,9,"B","Lower",102459,3.22345
+"East Asia and Pacific",2004,5,9,"B","Point",110587,3.47854
+"East Asia and Pacific",2004,5,9,"B","Upper",119435,3.75678
+"East Asia and Pacific",2005,5,9,"B","Lower",83172,2.62974
+"East Asia and Pacific",2005,5,9,"B","Point",88754,2.80576
+"East Asia and Pacific",2005,5,9,"B","Upper",96103,3.03793
+"East Asia and Pacific",2006,5,9,"B","Lower",79326,2.53253
+"East Asia and Pacific",2006,5,9,"B","Point",85098,2.71667
+"East Asia and Pacific",2006,5,9,"B","Upper",92257,2.94509
+"East Asia and Pacific",2007,5,9,"B","Lower",72273,2.32926
+"East Asia and Pacific",2007,5,9,"B","Point",77236,2.489
+"East Asia and Pacific",2007,5,9,"B","Upper",83524,2.69136
+"East Asia and Pacific",2008,5,9,"B","Lower",84495,2.74812
+"East Asia and Pacific",2008,5,9,"B","Point",91484,2.975
+"East Asia and Pacific",2008,5,9,"B","Upper",101642,3.30482
+"East Asia and Pacific",2009,5,9,"B","Lower",64038,2.10081
+"East Asia and Pacific",2009,5,9,"B","Point",69243,2.27137
+"East Asia and Pacific",2009,5,9,"B","Upper",75831,2.48724
+"East Asia and Pacific",2010,5,9,"B","Lower",60571,1.99814
+"East Asia and Pacific",2010,5,9,"B","Point",65706,2.16726
+"East Asia and Pacific",2010,5,9,"B","Upper",71834,2.36922
+"East Asia and Pacific",2011,5,9,"B","Lower",58125,1.92245
+"East Asia and Pacific",2011,5,9,"B","Point",63360,2.09544
+"East Asia and Pacific",2011,5,9,"B","Upper",69562,2.30029
+"East Asia and Pacific",2012,5,9,"B","Lower",53912,1.78307
+"East Asia and Pacific",2012,5,9,"B","Point",59211,1.95821
+"East Asia and Pacific",2012,5,9,"B","Upper",65670,2.17154
+"East Asia and Pacific",2013,5,9,"B","Lower",51891,1.71185
+"East Asia and Pacific",2013,5,9,"B","Point",56936,1.87796
+"East Asia and Pacific",2013,5,9,"B","Upper",63594,2.09754
+"East Asia and Pacific",2014,5,9,"B","Lower",49539,1.62738
+"East Asia and Pacific",2014,5,9,"B","Point",54909,1.80358
+"East Asia and Pacific",2014,5,9,"B","Upper",61663,2.02529
+"East Asia and Pacific",2015,5,9,"B","Lower",46765,1.52922
+"East Asia and Pacific",2015,5,9,"B","Point",52589,1.71954
+"East Asia and Pacific",2015,5,9,"B","Upper",59245,1.93701
+"East Asia and Pacific",2016,5,9,"B","Lower",44050,1.43306
+"East Asia and Pacific",2016,5,9,"B","Point",50141,1.63107
+"East Asia and Pacific",2016,5,9,"B","Upper",56929,1.85166
+"East Asia and Pacific",2017,5,9,"B","Lower",42412,1.37136
+"East Asia and Pacific",2017,5,9,"B","Point",48992,1.58414
+"East Asia and Pacific",2017,5,9,"B","Upper",56058,1.8122
+"East Asia and Pacific",2018,5,9,"B","Lower",41187,1.32327
+"East Asia and Pacific",2018,5,9,"B","Point",48023,1.54261
+"East Asia and Pacific",2018,5,9,"B","Upper",55948,1.79709
+"East Asia and Pacific",2019,5,9,"B","Lower",39815,1.27235
+"East Asia and Pacific",2019,5,9,"B","Point",47044,1.50315
+"East Asia and Pacific",2019,5,9,"B","Upper",54564,1.74327
+"Eastern and Southern Africa",2000,5,9,"B","Lower",182296,17.81963
+"Eastern and Southern Africa",2000,5,9,"B","Point",194275,18.97859
+"Eastern and Southern Africa",2000,5,9,"B","Upper",210434,20.54095
+"Eastern and Southern Africa",2001,5,9,"B","Lower",178260,17.02705
+"Eastern and Southern Africa",2001,5,9,"B","Point",189287,18.07091
+"Eastern and Southern Africa",2001,5,9,"B","Upper",204516,19.50978
+"Eastern and Southern Africa",2002,5,9,"B","Lower",177066,16.50019
+"Eastern and Southern Africa",2002,5,9,"B","Point",188274,17.53359
+"Eastern and Southern Africa",2002,5,9,"B","Upper",203705,18.96093
+"Eastern and Southern Africa",2003,5,9,"B","Lower",171429,15.57022
+"Eastern and Southern Africa",2003,5,9,"B","Point",182393,16.55902
+"Eastern and Southern Africa",2003,5,9,"B","Upper",197407,17.91244
+"Eastern and Southern Africa",2004,5,9,"B","Lower",165675,14.67504
+"Eastern and Southern Africa",2004,5,9,"B","Point",176412,15.61916
+"Eastern and Southern Africa",2004,5,9,"B","Upper",191225,16.91908
+"Eastern and Southern Africa",2005,5,9,"B","Lower",158964,13.75971
+"Eastern and Southern Africa",2005,5,9,"B","Point",169476,14.66267
+"Eastern and Southern Africa",2005,5,9,"B","Upper",184315,15.93704
+"Eastern and Southern Africa",2006,5,9,"B","Lower",152655,12.88758
+"Eastern and Southern Africa",2006,5,9,"B","Point",162812,13.73834
+"Eastern and Southern Africa",2006,5,9,"B","Upper",177445,14.96435
+"Eastern and Southern Africa",2007,5,9,"B","Lower",146035,12.02819
+"Eastern and Southern Africa",2007,5,9,"B","Point",156370,12.87368
+"Eastern and Southern Africa",2007,5,9,"B","Upper",170290,14.01192
+"Eastern and Southern Africa",2008,5,9,"B","Lower",141686,11.39316
+"Eastern and Southern Africa",2008,5,9,"B","Point",151718,12.19553
+"Eastern and Southern Africa",2008,5,9,"B","Upper",166042,13.33897
+"Eastern and Southern Africa",2009,5,9,"B","Lower",136728,10.7433
+"Eastern and Southern Africa",2009,5,9,"B","Point",147204,11.56182
+"Eastern and Southern Africa",2009,5,9,"B","Upper",161043,12.64177
+"Eastern and Southern Africa",2010,5,9,"B","Lower",131138,10.07732
+"Eastern and Southern Africa",2010,5,9,"B","Point",141136,10.84172
+"Eastern and Southern Africa",2010,5,9,"B","Upper",154729,11.87979
+"Eastern and Southern Africa",2011,5,9,"B","Lower",127131,9.54372
+"Eastern and Southern Africa",2011,5,9,"B","Point",137419,10.31129
+"Eastern and Southern Africa",2011,5,9,"B","Upper",150978,11.32356
+"Eastern and Southern Africa",2012,5,9,"B","Lower",122635,8.98905
+"Eastern and Southern Africa",2012,5,9,"B","Point",133340,9.76939
+"Eastern and Southern Africa",2012,5,9,"B","Upper",147066,10.76996
+"Eastern and Southern Africa",2013,5,9,"B","Lower",118961,8.51416
+"Eastern and Southern Africa",2013,5,9,"B","Point",130128,9.30956
+"Eastern and Southern Africa",2013,5,9,"B","Upper",143733,10.27849
+"Eastern and Southern Africa",2014,5,9,"B","Lower",118223,8.26992
+"Eastern and Southern Africa",2014,5,9,"B","Point",130108,9.09741
+"Eastern and Southern Africa",2014,5,9,"B","Upper",144062,10.06857
+"Eastern and Southern Africa",2015,5,9,"B","Lower",113556,7.77835
+"Eastern and Southern Africa",2015,5,9,"B","Point",125846,8.61655
+"Eastern and Southern Africa",2015,5,9,"B","Upper",139239,9.52919
+"Eastern and Southern Africa",2016,5,9,"B","Lower",109285,7.33004
+"Eastern and Southern Africa",2016,5,9,"B","Point",122245,8.19575
+"Eastern and Southern Africa",2016,5,9,"B","Upper",135790,9.09986
+"Eastern and Southern Africa",2017,5,9,"B","Lower",106965,7.03545
+"Eastern and Southern Africa",2017,5,9,"B","Point",120258,7.90616
+"Eastern and Southern Africa",2017,5,9,"B","Upper",133660,8.78351
+"Eastern and Southern Africa",2018,5,9,"B","Lower",104670,6.76221
+"Eastern and Southern Africa",2018,5,9,"B","Point",118295,7.63929
+"Eastern and Southern Africa",2018,5,9,"B","Upper",131225,8.47065
+"Eastern and Southern Africa",2019,5,9,"B","Lower",103627,6.58607
+"Eastern and Southern Africa",2019,5,9,"B","Point",117777,7.48181
+"Eastern and Southern Africa",2019,5,9,"B","Upper",130868,8.30993
+"Eastern Europe and central Asia",2000,5,9,"B","Lower",16961,2.85468
+"Eastern Europe and central Asia",2000,5,9,"B","Point",17312,2.91375
+"Eastern Europe and central Asia",2000,5,9,"B","Upper",17684,2.97606
+"Eastern Europe and central Asia",2001,5,9,"B","Lower",15719,2.75835
+"Eastern Europe and central Asia",2001,5,9,"B","Point",16039,2.81412
+"Eastern Europe and central Asia",2001,5,9,"B","Upper",16383,2.87444
+"Eastern Europe and central Asia",2002,5,9,"B","Lower",14651,2.66144
+"Eastern Europe and central Asia",2002,5,9,"B","Point",14942,2.71418
+"Eastern Europe and central Asia",2002,5,9,"B","Upper",15252,2.77043
+"Eastern Europe and central Asia",2003,5,9,"B","Lower",13724,2.55864
+"Eastern Europe and central Asia",2003,5,9,"B","Point",13984,2.6071
+"Eastern Europe and central Asia",2003,5,9,"B","Upper",14264,2.65905
+"Eastern Europe and central Asia",2004,5,9,"B","Lower",12876,2.44795
+"Eastern Europe and central Asia",2004,5,9,"B","Point",13104,2.49163
+"Eastern Europe and central Asia",2004,5,9,"B","Upper",13350,2.53765
+"Eastern Europe and central Asia",2005,5,9,"B","Lower",12036,2.32987
+"Eastern Europe and central Asia",2005,5,9,"B","Point",12233,2.36778
+"Eastern Europe and central Asia",2005,5,9,"B","Upper",12446,2.40892
+"Eastern Europe and central Asia",2006,5,9,"B","Lower",11204,2.20729
+"Eastern Europe and central Asia",2006,5,9,"B","Point",11372,2.24012
+"Eastern Europe and central Asia",2006,5,9,"B","Upper",11554,2.27595
+"Eastern Europe and central Asia",2007,5,9,"B","Lower",10428,2.07798
+"Eastern Europe and central Asia",2007,5,9,"B","Point",10572,2.10701
+"Eastern Europe and central Asia",2007,5,9,"B","Upper",10725,2.13698
+"Eastern Europe and central Asia",2008,5,9,"B","Lower",9731,1.94708
+"Eastern Europe and central Asia",2008,5,9,"B","Point",9851,1.9709
+"Eastern Europe and central Asia",2008,5,9,"B","Upper",9980,1.99667
+"Eastern Europe and central Asia",2009,5,9,"B","Lower",9091,1.81383
+"Eastern Europe and central Asia",2009,5,9,"B","Point",9184,1.83293
+"Eastern Europe and central Asia",2009,5,9,"B","Upper",9295,1.8543
+"Eastern Europe and central Asia",2010,5,9,"B","Lower",8522,1.68709
+"Eastern Europe and central Asia",2010,5,9,"B","Point",8598,1.70166
+"Eastern Europe and central Asia",2010,5,9,"B","Upper",8687,1.71954
+"Eastern Europe and central Asia",2011,5,9,"B","Lower",8041,1.56882
+"Eastern Europe and central Asia",2011,5,9,"B","Point",8103,1.58114
+"Eastern Europe and central Asia",2011,5,9,"B","Upper",8183,1.59626
+"Eastern Europe and central Asia",2012,5,9,"B","Lower",7658,1.46307
+"Eastern Europe and central Asia",2012,5,9,"B","Point",7713,1.47329
+"Eastern Europe and central Asia",2012,5,9,"B","Upper",7777,1.48568
+"Eastern Europe and central Asia",2013,5,9,"B","Lower",7361,1.37051
+"Eastern Europe and central Asia",2013,5,9,"B","Point",7413,1.3804
+"Eastern Europe and central Asia",2013,5,9,"B","Upper",7477,1.39188
+"Eastern Europe and central Asia",2014,5,9,"B","Lower",7240,1.31053
+"Eastern Europe and central Asia",2014,5,9,"B","Point",7297,1.32039
+"Eastern Europe and central Asia",2014,5,9,"B","Upper",7355,1.33117
+"Eastern Europe and central Asia",2015,5,9,"B","Lower",6943,1.22307
+"Eastern Europe and central Asia",2015,5,9,"B","Point",7006,1.23399
+"Eastern Europe and central Asia",2015,5,9,"B","Upper",7069,1.24505
+"Eastern Europe and central Asia",2016,5,9,"B","Lower",6753,1.16083
+"Eastern Europe and central Asia",2016,5,9,"B","Point",6824,1.17238
+"Eastern Europe and central Asia",2016,5,9,"B","Upper",6889,1.18395
+"Eastern Europe and central Asia",2017,5,9,"B","Lower",6560,1.1023
+"Eastern Europe and central Asia",2017,5,9,"B","Point",6638,1.11579
+"Eastern Europe and central Asia",2017,5,9,"B","Upper",6717,1.12856
+"Eastern Europe and central Asia",2018,5,9,"B","Lower",6344,1.04529
+"Eastern Europe and central Asia",2018,5,9,"B","Point",6442,1.0614
+"Eastern Europe and central Asia",2018,5,9,"B","Upper",6545,1.07821
+"Eastern Europe and central Asia",2019,5,9,"B","Lower",6098,0.98896
+"Eastern Europe and central Asia",2019,5,9,"B","Point",6227,1.0099
+"Eastern Europe and central Asia",2019,5,9,"B","Upper",6363,1.03172
+"Latin America and Caribbean",2000,5,9,"B","Lower",22741,2.03386
+"Latin America and Caribbean",2000,5,9,"B","Point",23407,2.09309
+"Latin America and Caribbean",2000,5,9,"B","Upper",24188,2.16307
+"Latin America and Caribbean",2001,5,9,"B","Lower",22201,1.98335
+"Latin America and Caribbean",2001,5,9,"B","Point",22860,2.04198
+"Latin America and Caribbean",2001,5,9,"B","Upper",23623,2.11023
+"Latin America and Caribbean",2002,5,9,"B","Lower",21454,1.91572
+"Latin America and Caribbean",2002,5,9,"B","Point",22100,1.97336
+"Latin America and Caribbean",2002,5,9,"B","Upper",22862,2.04123
+"Latin America and Caribbean",2003,5,9,"B","Lower",20856,1.86318
+"Latin America and Caribbean",2003,5,9,"B","Point",21496,1.92009
+"Latin America and Caribbean",2003,5,9,"B","Upper",22258,1.98823
+"Latin America and Caribbean",2004,5,9,"B","Lower",20675,1.84973
+"Latin America and Caribbean",2004,5,9,"B","Point",21375,1.91243
+"Latin America and Caribbean",2004,5,9,"B","Upper",22237,1.98923
+"Latin America and Caribbean",2005,5,9,"B","Lower",19853,1.78092
+"Latin America and Caribbean",2005,5,9,"B","Point",20476,1.83691
+"Latin America and Caribbean",2005,5,9,"B","Upper",21290,1.90963
+"Latin America and Caribbean",2006,5,9,"B","Lower",19166,1.72477
+"Latin America and Caribbean",2006,5,9,"B","Point",19805,1.78217
+"Latin America and Caribbean",2006,5,9,"B","Upper",20631,1.85635
+"Latin America and Caribbean",2007,5,9,"B","Lower",18621,1.68247
+"Latin America and Caribbean",2007,5,9,"B","Point",19260,1.74027
+"Latin America and Caribbean",2007,5,9,"B","Upper",20092,1.81522
+"Latin America and Caribbean",2008,5,9,"B","Lower",18058,1.63983
+"Latin America and Caribbean",2008,5,9,"B","Point",18694,1.69778
+"Latin America and Caribbean",2008,5,9,"B","Upper",19533,1.77358
+"Latin America and Caribbean",2009,5,9,"B","Lower",17470,1.59577
+"Latin America and Caribbean",2009,5,9,"B","Point",18111,1.65411
+"Latin America and Caribbean",2009,5,9,"B","Upper",18932,1.72906
+"Latin America and Caribbean",2010,5,9,"B","Lower",31659,2.90868
+"Latin America and Caribbean",2010,5,9,"B","Point",37231,3.41965
+"Latin America and Caribbean",2010,5,9,"B","Upper",44168,4.05554
+"Latin America and Caribbean",2011,5,9,"B","Lower",16243,1.50265
+"Latin America and Caribbean",2011,5,9,"B","Point",16906,1.56408
+"Latin America and Caribbean",2011,5,9,"B","Upper",17760,1.64276
+"Latin America and Caribbean",2012,5,9,"B","Lower",15653,1.45779
+"Latin America and Caribbean",2012,5,9,"B","Point",16327,1.52036
+"Latin America and Caribbean",2012,5,9,"B","Upper",17202,1.60184
+"Latin America and Caribbean",2013,5,9,"B","Lower",15096,1.41581
+"Latin America and Caribbean",2013,5,9,"B","Point",15775,1.47955
+"Latin America and Caribbean",2013,5,9,"B","Upper",16644,1.56083
+"Latin America and Caribbean",2014,5,9,"B","Lower",14561,1.37533
+"Latin America and Caribbean",2014,5,9,"B","Point",15252,1.44036
+"Latin America and Caribbean",2014,5,9,"B","Upper",16100,1.52049
+"Latin America and Caribbean",2015,5,9,"B","Lower",14071,1.33751
+"Latin America and Caribbean",2015,5,9,"B","Point",14772,1.40398
+"Latin America and Caribbean",2015,5,9,"B","Upper",15629,1.48538
+"Latin America and Caribbean",2016,5,9,"B","Lower",13592,1.29939
+"Latin America and Caribbean",2016,5,9,"B","Point",14318,1.36877
+"Latin America and Caribbean",2016,5,9,"B","Upper",15192,1.45214
+"Latin America and Caribbean",2017,5,9,"B","Lower",13163,1.26281
+"Latin America and Caribbean",2017,5,9,"B","Point",13906,1.33378
+"Latin America and Caribbean",2017,5,9,"B","Upper",14810,1.42063
+"Latin America and Caribbean",2018,5,9,"B","Lower",12780,1.22797
+"Latin America and Caribbean",2018,5,9,"B","Point",13514,1.29831
+"Latin America and Caribbean",2018,5,9,"B","Upper",14420,1.38538
+"Latin America and Caribbean",2019,5,9,"B","Lower",12410,1.19302
+"Latin America and Caribbean",2019,5,9,"B","Point",13141,1.26315
+"Latin America and Caribbean",2019,5,9,"B","Upper",14045,1.35002
+"Middle East and North Africa",2000,5,9,"B","Lower",25235,3.28772
+"Middle East and North Africa",2000,5,9,"B","Point",26529,3.45556
+"Middle East and North Africa",2000,5,9,"B","Upper",28768,3.74695
+"Middle East and North Africa",2001,5,9,"B","Lower",23517,3.09515
+"Middle East and North Africa",2001,5,9,"B","Point",24819,3.26614
+"Middle East and North Africa",2001,5,9,"B","Upper",26862,3.53469
+"Middle East and North Africa",2002,5,9,"B","Lower",22127,2.93841
+"Middle East and North Africa",2002,5,9,"B","Point",23489,3.1187
+"Middle East and North Africa",2002,5,9,"B","Upper",25314,3.3608
+"Middle East and North Africa",2003,5,9,"B","Lower",26465,3.53954
+"Middle East and North Africa",2003,5,9,"B","Point",29225,3.90777
+"Middle East and North Africa",2003,5,9,"B","Upper",32924,4.4015
+"Middle East and North Africa",2004,5,9,"B","Lower",22040,2.96564
+"Middle East and North Africa",2004,5,9,"B","Point",24751,3.32936
+"Middle East and North Africa",2004,5,9,"B","Upper",27989,3.7643
+"Middle East and North Africa",2005,5,9,"B","Lower",21081,2.84868
+"Middle East and North Africa",2005,5,9,"B","Point",24236,3.27431
+"Middle East and North Africa",2005,5,9,"B","Upper",27780,3.75217
+"Middle East and North Africa",2006,5,9,"B","Lower",21787,2.9495
+"Middle East and North Africa",2006,5,9,"B","Point",26340,3.56533
+"Middle East and North Africa",2006,5,9,"B","Upper",31254,4.2283
+"Middle East and North Africa",2007,5,9,"B","Lower",20568,2.7787
+"Middle East and North Africa",2007,5,9,"B","Point",24661,3.33085
+"Middle East and North Africa",2007,5,9,"B","Upper",29034,3.91999
+"Middle East and North Africa",2008,5,9,"B","Lower",18851,2.53205
+"Middle East and North Africa",2008,5,9,"B","Point",21315,2.86222
+"Middle East and North Africa",2008,5,9,"B","Upper",23860,3.20352
+"Middle East and North Africa",2009,5,9,"B","Lower",18317,2.43818
+"Middle East and North Africa",2009,5,9,"B","Point",20287,2.70017
+"Middle East and North Africa",2009,5,9,"B","Upper",22300,2.9674
+"Middle East and North Africa",2010,5,9,"B","Lower",17733,2.33385
+"Middle East and North Africa",2010,5,9,"B","Point",19587,2.57753
+"Middle East and North Africa",2010,5,9,"B","Upper",21545,2.83468
+"Middle East and North Africa",2011,5,9,"B","Lower",18101,2.35387
+"Middle East and North Africa",2011,5,9,"B","Point",20072,2.60957
+"Middle East and North Africa",2011,5,9,"B","Upper",22081,2.87067
+"Middle East and North Africa",2012,5,9,"B","Lower",22080,2.82533
+"Middle East and North Africa",2012,5,9,"B","Point",24120,3.08573
+"Middle East and North Africa",2012,5,9,"B","Upper",26219,3.3539
+"Middle East and North Africa",2013,5,9,"B","Lower",23537,2.9531
+"Middle East and North Africa",2013,5,9,"B","Point",26129,3.27793
+"Middle East and North Africa",2013,5,9,"B","Upper",28746,3.60547
+"Middle East and North Africa",2014,5,9,"B","Lower",25005,3.06834
+"Middle East and North Africa",2014,5,9,"B","Point",28839,3.53816
+"Middle East and North Africa",2014,5,9,"B","Upper",32723,4.0133
+"Middle East and North Africa",2015,5,9,"B","Lower",23359,2.80073
+"Middle East and North Africa",2015,5,9,"B","Point",27088,3.24753
+"Middle East and North Africa",2015,5,9,"B","Upper",30784,3.68921
+"Middle East and North Africa",2016,5,9,"B","Lower",22297,2.6063
+"Middle East and North Africa",2016,5,9,"B","Point",26481,3.0952
+"Middle East and North Africa",2016,5,9,"B","Upper",30499,3.56309
+"Middle East and North Africa",2017,5,9,"B","Lower",20674,2.35053
+"Middle East and North Africa",2017,5,9,"B","Point",24336,2.76606
+"Middle East and North Africa",2017,5,9,"B","Upper",27776,3.15654
+"Middle East and North Africa",2018,5,9,"B","Lower",19581,2.16337
+"Middle East and North Africa",2018,5,9,"B","Point",22413,2.47552
+"Middle East and North Africa",2018,5,9,"B","Upper",25010,2.7623
+"Middle East and North Africa",2019,5,9,"B","Lower",18617,2.00161
+"Middle East and North Africa",2019,5,9,"B","Point",21216,2.28052
+"Middle East and North Africa",2019,5,9,"B","Upper",23701,2.54751
+"North America",2000,5,9,"B","Lower",3605,0.78777
+"North America",2000,5,9,"B","Point",3677,0.80323
+"North America",2000,5,9,"B","Upper",3723,0.81339
+"North America",2001,5,9,"B","Lower",3484,0.76065
+"North America",2001,5,9,"B","Point",3553,0.77554
+"North America",2001,5,9,"B","Upper",3597,0.78505
+"North America",2002,5,9,"B","Lower",3364,0.74007
+"North America",2002,5,9,"B","Point",3426,0.7537
+"North America",2002,5,9,"B","Upper",3469,0.76302
+"North America",2003,5,9,"B","Lower",3235,0.72273
+"North America",2003,5,9,"B","Point",3289,0.73486
+"North America",2003,5,9,"B","Upper",3330,0.74375
+"North America",2004,5,9,"B","Lower",3096,0.70483
+"North America",2004,5,9,"B","Point",3146,0.71598
+"North America",2004,5,9,"B","Upper",3184,0.72447
+"North America",2005,5,9,"B","Lower",2964,0.68527
+"North America",2005,5,9,"B","Point",3009,0.69572
+"North America",2005,5,9,"B","Upper",3044,0.7036
+"North America",2006,5,9,"B","Lower",2869,0.66414
+"North America",2006,5,9,"B","Point",2909,0.6732
+"North America",2006,5,9,"B","Upper",2945,0.68142
+"North America",2007,5,9,"B","Lower",2783,0.64033
+"North America",2007,5,9,"B","Point",2819,0.64851
+"North America",2007,5,9,"B","Upper",2856,0.65699
+"North America",2008,5,9,"B","Lower",2709,0.6162
+"North America",2008,5,9,"B","Point",2743,0.62377
+"North America",2008,5,9,"B","Upper",2782,0.6325
+"North America",2009,5,9,"B","Lower",2646,0.59405
+"North America",2009,5,9,"B","Point",2679,0.60139
+"North America",2009,5,9,"B","Upper",2720,0.61042
+"North America",2010,5,9,"B","Lower",2586,0.57572
+"North America",2010,5,9,"B","Point",2620,0.58296
+"North America",2010,5,9,"B","Upper",2661,0.59215
+"North America",2011,5,9,"B","Lower",2538,0.56336
+"North America",2011,5,9,"B","Point",2571,0.57049
+"North America",2011,5,9,"B","Upper",2611,0.57938
+"North America",2012,5,9,"B","Lower",2519,0.55673
+"North America",2012,5,9,"B","Point",2553,0.56416
+"North America",2012,5,9,"B","Upper",2594,0.57314
+"North America",2013,5,9,"B","Lower",2527,0.55544
+"North America",2013,5,9,"B","Point",2563,0.56324
+"North America",2013,5,9,"B","Upper",2606,0.57258
+"North America",2014,5,9,"B","Lower",2554,0.55796
+"North America",2014,5,9,"B","Point",2593,0.5664
+"North America",2014,5,9,"B","Upper",2637,0.57603
+"North America",2015,5,9,"B","Lower",2583,0.56235
+"North America",2015,5,9,"B","Point",2627,0.57184
+"North America",2015,5,9,"B","Upper",2677,0.58259
+"North America",2016,5,9,"B","Lower",2606,0.56719
+"North America",2016,5,9,"B","Point",2658,0.57854
+"North America",2016,5,9,"B","Upper",2713,0.59041
+"North America",2017,5,9,"B","Lower",2607,0.57078
+"North America",2017,5,9,"B","Point",2671,0.58489
+"North America",2017,5,9,"B","Upper",2732,0.59812
+"North America",2018,5,9,"B","Lower",2562,0.56743
+"North America",2018,5,9,"B","Point",2659,0.58873
+"North America",2018,5,9,"B","Upper",2735,0.60541
+"North America",2019,5,9,"B","Lower",2474,0.55542
+"North America",2019,5,9,"B","Point",2620,0.58816
+"North America",2019,5,9,"B","Upper",2733,0.61348
+"South Asia",2000,5,9,"B","Lower",270265,8.10975
+"South Asia",2000,5,9,"B","Point",279732,8.39305
+"South Asia",2000,5,9,"B","Upper",289831,8.69442
+"South Asia",2001,5,9,"B","Lower",261769,7.79484
+"South Asia",2001,5,9,"B","Point",271322,8.07843
+"South Asia",2001,5,9,"B","Upper",281273,8.37384
+"South Asia",2002,5,9,"B","Lower",247804,7.31989
+"South Asia",2002,5,9,"B","Point",256448,7.57427
+"South Asia",2002,5,9,"B","Upper",265999,7.85529
+"South Asia",2003,5,9,"B","Lower",239198,7.00935
+"South Asia",2003,5,9,"B","Point",247824,7.26132
+"South Asia",2003,5,9,"B","Upper",257475,7.54374
+"South Asia",2004,5,9,"B","Lower",239750,6.97554
+"South Asia",2004,5,9,"B","Point",248751,7.23659
+"South Asia",2004,5,9,"B","Upper",258649,7.52337
+"South Asia",2005,5,9,"B","Lower",226328,6.5517
+"South Asia",2005,5,9,"B","Point",234782,6.79572
+"South Asia",2005,5,9,"B","Upper",243645,7.05145
+"South Asia",2006,5,9,"B","Lower",226127,6.50427
+"South Asia",2006,5,9,"B","Point",234776,6.75235
+"South Asia",2006,5,9,"B","Upper",244627,7.03504
+"South Asia",2007,5,9,"B","Lower",206447,5.90614
+"South Asia",2007,5,9,"B","Point",214696,6.14152
+"South Asia",2007,5,9,"B","Upper",224256,6.41409
+"South Asia",2008,5,9,"B","Lower",197915,5.63886
+"South Asia",2008,5,9,"B","Point",206429,5.8808
+"South Asia",2008,5,9,"B","Upper",216812,6.17576
+"South Asia",2009,5,9,"B","Lower",191384,5.4376
+"South Asia",2009,5,9,"B","Point",200321,5.69097
+"South Asia",2009,5,9,"B","Upper",210500,5.97961
+"South Asia",2010,5,9,"B","Lower",174012,4.93721
+"South Asia",2010,5,9,"B","Point",182434,5.17553
+"South Asia",2010,5,9,"B","Upper",191841,5.44196
+"South Asia",2011,5,9,"B","Lower",163981,4.64493
+"South Asia",2011,5,9,"B","Point",172646,4.88975
+"South Asia",2011,5,9,"B","Upper",183118,5.18578
+"South Asia",2012,5,9,"B","Lower",147595,4.17566
+"South Asia",2012,5,9,"B","Point",156549,4.42843
+"South Asia",2012,5,9,"B","Upper",166652,4.71367
+"South Asia",2013,5,9,"B","Lower",136497,3.8604
+"South Asia",2013,5,9,"B","Point",145345,4.11027
+"South Asia",2013,5,9,"B","Upper",155725,4.40322
+"South Asia",2014,5,9,"B","Lower",130021,3.68197
+"South Asia",2014,5,9,"B","Point",139379,3.94644
+"South Asia",2014,5,9,"B","Upper",149908,4.24389
+"South Asia",2015,5,9,"B","Lower",122285,3.47535
+"South Asia",2015,5,9,"B","Point",131839,3.74632
+"South Asia",2015,5,9,"B","Upper",142391,4.04564
+"South Asia",2016,5,9,"B","Lower",113389,3.23638
+"South Asia",2016,5,9,"B","Point",123443,3.52283
+"South Asia",2016,5,9,"B","Upper",134249,3.8306
+"South Asia",2017,5,9,"B","Lower",107173,3.08243
+"South Asia",2017,5,9,"B","Point",118248,3.40052
+"South Asia",2017,5,9,"B","Upper",129806,3.73242
+"South Asia",2018,5,9,"B","Lower",104552,3.03922
+"South Asia",2018,5,9,"B","Point",116632,3.38996
+"South Asia",2018,5,9,"B","Upper",128516,3.73463
+"South Asia",2019,5,9,"B","Lower",92405,2.71797
+"South Asia",2019,5,9,"B","Point",106110,3.12051
+"South Asia",2019,5,9,"B","Upper",119585,3.5161
+"West and central Africa",2000,5,9,"B","Lower",190282,20.72661
+"West and central Africa",2000,5,9,"B","Point",201650,21.94924
+"West and central Africa",2000,5,9,"B","Upper",217063,23.60664
+"West and central Africa",2001,5,9,"B","Lower",190253,20.15746
+"West and central Africa",2001,5,9,"B","Point",201387,21.32745
+"West and central Africa",2001,5,9,"B","Upper",215829,22.83769
+"West and central Africa",2002,5,9,"B","Lower",185215,19.07725
+"West and central Africa",2002,5,9,"B","Point",196750,20.25437
+"West and central Africa",2002,5,9,"B","Upper",212231,21.83212
+"West and central Africa",2003,5,9,"B","Lower",191489,19.17292
+"West and central Africa",2003,5,9,"B","Point",202815,20.29655
+"West and central Africa",2003,5,9,"B","Upper",217314,21.73042
+"West and central Africa",2004,5,9,"B","Lower",185556,18.07732
+"West and central Africa",2004,5,9,"B","Point",197353,19.21805
+"West and central Africa",2004,5,9,"B","Upper",211719,20.60219
+"West and central Africa",2005,5,9,"B","Lower",184533,17.52478
+"West and central Africa",2005,5,9,"B","Point",195816,18.58623
+"West and central Africa",2005,5,9,"B","Upper",209608,19.88318
+"West and central Africa",2006,5,9,"B","Lower",174841,16.10584
+"West and central Africa",2006,5,9,"B","Point",186156,17.13982
+"West and central Africa",2006,5,9,"B","Upper",200376,18.43787
+"West and central Africa",2007,5,9,"B","Lower",174559,15.58409
+"West and central Africa",2007,5,9,"B","Point",186333,16.62613
+"West and central Africa",2007,5,9,"B","Upper",200834,17.90898
+"West and central Africa",2008,5,9,"B","Lower",177171,15.33114
+"West and central Africa",2008,5,9,"B","Point",189514,16.38998
+"West and central Africa",2008,5,9,"B","Upper",204283,17.66156
+"West and central Africa",2009,5,9,"B","Lower",177931,14.94082
+"West and central Africa",2009,5,9,"B","Point",191074,16.03579
+"West and central Africa",2009,5,9,"B","Upper",206445,17.31437
+"West and central Africa",2010,5,9,"B","Lower",176983,14.45239
+"West and central Africa",2010,5,9,"B","Point",190739,15.56791
+"West and central Africa",2010,5,9,"B","Upper",205738,16.78051
+"West and central Africa",2011,5,9,"B","Lower",179366,14.203
+"West and central Africa",2011,5,9,"B","Point",193680,15.32721
+"West and central Africa",2011,5,9,"B","Upper",210084,16.61479
+"West and central Africa",2012,5,9,"B","Lower",178142,13.6869
+"West and central Africa",2012,5,9,"B","Point",193304,14.84302
+"West and central Africa",2012,5,9,"B","Upper",210083,16.1211
+"West and central Africa",2013,5,9,"B","Lower",179625,13.40689
+"West and central Africa",2013,5,9,"B","Point",195787,14.60512
+"West and central Africa",2013,5,9,"B","Upper",213333,15.90385
+"West and central Africa",2014,5,9,"B","Lower",176737,12.83508
+"West and central Africa",2014,5,9,"B","Point",193487,14.04293
+"West and central Africa",2014,5,9,"B","Upper",211681,15.35315
+"West and central Africa",2015,5,9,"B","Lower",177569,12.57027
+"West and central Africa",2015,5,9,"B","Point",194857,13.78553
+"West and central Africa",2015,5,9,"B","Upper",214023,15.13106
+"West and central Africa",2016,5,9,"B","Lower",178963,12.32606
+"West and central Africa",2016,5,9,"B","Point",197775,13.61333
+"West and central Africa",2016,5,9,"B","Upper",217944,14.99116
+"West and central Africa",2017,5,9,"B","Lower",175050,11.73783
+"West and central Africa",2017,5,9,"B","Point",194216,13.01396
+"West and central Africa",2017,5,9,"B","Upper",215729,14.44543
+"West and central Africa",2018,5,9,"B","Lower",174995,11.43738
+"West and central Africa",2018,5,9,"B","Point",195154,12.74611
+"West and central Africa",2018,5,9,"B","Upper",217522,14.19672
+"West and central Africa",2019,5,9,"B","Lower",179301,11.44281
+"West and central Africa",2019,5,9,"B","Point",200948,12.81527
+"West and central Africa",2019,5,9,"B","Upper",224603,14.31334
+"Western Europe",2000,5,9,"B","Lower",3696,0.69632
+"Western Europe",2000,5,9,"B","Point",3735,0.70316
+"Western Europe",2000,5,9,"B","Upper",3767,0.70949
+"Western Europe",2001,5,9,"B","Lower",3504,0.6679
+"Western Europe",2001,5,9,"B","Point",3539,0.67476
+"Western Europe",2001,5,9,"B","Upper",3572,0.68054
+"Western Europe",2002,5,9,"B","Lower",3316,0.63999
+"Western Europe",2002,5,9,"B","Point",3349,0.64663
+"Western Europe",2002,5,9,"B","Upper",3381,0.65234
+"Western Europe",2003,5,9,"B","Lower",3134,0.61287
+"Western Europe",2003,5,9,"B","Point",3166,0.61924
+"Western Europe",2003,5,9,"B","Upper",3195,0.62464
+"Western Europe",2004,5,9,"B","Lower",2960,0.58647
+"Western Europe",2004,5,9,"B","Point",2991,0.59273
+"Western Europe",2004,5,9,"B","Upper",3020,0.59819
+"Western Europe",2005,5,9,"B","Lower",2803,0.56178
+"Western Europe",2005,5,9,"B","Point",2837,0.56804
+"Western Europe",2005,5,9,"B","Upper",2862,0.5733
+"Western Europe",2006,5,9,"B","Lower",2675,0.5392
+"Western Europe",2006,5,9,"B","Point",2704,0.54497
+"Western Europe",2006,5,9,"B","Upper",2732,0.55052
+"Western Europe",2007,5,9,"B","Lower",2564,0.51878
+"Western Europe",2007,5,9,"B","Point",2594,0.52431
+"Western Europe",2007,5,9,"B","Upper",2619,0.52971
+"Western Europe",2008,5,9,"B","Lower",2470,0.50016
+"Western Europe",2008,5,9,"B","Point",2493,0.50524
+"Western Europe",2008,5,9,"B","Upper",2523,0.5108
+"Western Europe",2009,5,9,"B","Lower",2385,0.48267
+"Western Europe",2009,5,9,"B","Point",2412,0.48763
+"Western Europe",2009,5,9,"B","Upper",2438,0.49309
+"Western Europe",2010,5,9,"B","Lower",2306,0.46599
+"Western Europe",2010,5,9,"B","Point",2331,0.47069
+"Western Europe",2010,5,9,"B","Upper",2357,0.47623
+"Western Europe",2011,5,9,"B","Lower",2237,0.44979
+"Western Europe",2011,5,9,"B","Point",2262,0.45444
+"Western Europe",2011,5,9,"B","Upper",2289,0.45996
+"Western Europe",2012,5,9,"B","Lower",2181,0.43448
+"Western Europe",2012,5,9,"B","Point",2204,0.43928
+"Western Europe",2012,5,9,"B","Upper",2233,0.44455
+"Western Europe",2013,5,9,"B","Lower",2136,0.4202
+"Western Europe",2013,5,9,"B","Point",2161,0.42498
+"Western Europe",2013,5,9,"B","Upper",2188,0.43034
+"Western Europe",2014,5,9,"B","Lower",2094,0.40685
+"Western Europe",2014,5,9,"B","Point",2119,0.41216
+"Western Europe",2014,5,9,"B","Upper",2152,0.41791
+"Western Europe",2015,5,9,"B","Lower",2052,0.39495
+"Western Europe",2015,5,9,"B","Point",2082,0.40079
+"Western Europe",2015,5,9,"B","Upper",2115,0.40688
+"Western Europe",2016,5,9,"B","Lower",2010,0.3845
+"Western Europe",2016,5,9,"B","Point",2043,0.39068
+"Western Europe",2016,5,9,"B","Upper",2079,0.39744
+"Western Europe",2017,5,9,"B","Lower",1974,0.37723
+"Western Europe",2017,5,9,"B","Point",2010,0.38396
+"Western Europe",2017,5,9,"B","Upper",2051,0.39158
+"Western Europe",2018,5,9,"B","Lower",1908,0.36591
+"Western Europe",2018,5,9,"B","Point",1946,0.37344
+"Western Europe",2018,5,9,"B","Upper",1993,0.382
+"Western Europe",2019,5,9,"B","Lower",1845,0.35631
+"Western Europe",2019,5,9,"B","Point",1888,0.36475
+"Western Europe",2019,5,9,"B","Upper",1941,0.37467
+"World",2000,10,14,"B","Lower",455318,3.64343
+"World",2000,10,14,"B","Point",490461,3.92134
+"World",2000,10,14,"B","Upper",543872,4.35094
+"World",2001,10,14,"B","Lower",446155,3.57572
+"World",2001,10,14,"B","Point",480748,3.84111
+"World",2001,10,14,"B","Upper",529060,4.23129
+"World",2002,10,14,"B","Lower",437362,3.51982
+"World",2002,10,14,"B","Point",471296,3.78685
+"World",2002,10,14,"B","Upper",516775,4.16147
+"World",2003,10,14,"B","Lower",434104,3.53352
+"World",2003,10,14,"B","Point",467766,3.7962
+"World",2003,10,14,"B","Upper",510122,4.14146
+"World",2004,10,14,"B","Lower",441258,3.6253
+"World",2004,10,14,"B","Point",475246,3.89765
+"World",2004,10,14,"B","Upper",516445,4.25042
+"World",2005,10,14,"B","Lower",415459,3.44368
+"World",2005,10,14,"B","Point",448477,3.70642
+"World",2005,10,14,"B","Upper",486941,4.03129
+"World",2006,10,14,"B","Lower",411424,3.42514
+"World",2006,10,14,"B","Point",444052,3.68919
+"World",2006,10,14,"B","Upper",483471,4.01892
+"World",2007,10,14,"B","Lower",403978,3.37503
+"World",2007,10,14,"B","Point",436248,3.63187
+"World",2007,10,14,"B","Upper",473996,3.95695
+"World",2008,10,14,"B","Lower",408343,3.40091
+"World",2008,10,14,"B","Point",444175,3.69488
+"World",2008,10,14,"B","Upper",484746,4.03591
+"World",2009,10,14,"B","Lower",387465,3.22247
+"World",2009,10,14,"B","Point",419539,3.48356
+"World",2009,10,14,"B","Upper",457752,3.80218
+"World",2010,10,14,"B","Lower",392269,3.25978
+"World",2010,10,14,"B","Point",428281,3.54807
+"World",2010,10,14,"B","Upper",472950,3.91929
+"World",2011,10,14,"B","Lower",371761,3.07811
+"World",2011,10,14,"B","Point",404287,3.34303
+"World",2011,10,14,"B","Upper",447763,3.71279
+"World",2012,10,14,"B","Lower",368106,3.0453
+"World",2012,10,14,"B","Point",402442,3.31831
+"World",2012,10,14,"B","Upper",449015,3.71293
+"World",2013,10,14,"B","Lower",363511,2.99575
+"World",2013,10,14,"B","Point",399066,3.2787
+"World",2013,10,14,"B","Upper",449848,3.7104
+"World",2014,10,14,"B","Lower",359662,2.95543
+"World",2014,10,14,"B","Point",396835,3.2456
+"World",2014,10,14,"B","Upper",454028,3.72406
+"World",2015,10,14,"B","Lower",349876,2.87007
+"World",2015,10,14,"B","Point",389257,3.16563
+"World",2015,10,14,"B","Upper",451261,3.68578
+"World",2016,10,14,"B","Lower",344865,2.80181
+"World",2016,10,14,"B","Point",383665,3.09847
+"World",2016,10,14,"B","Upper",452935,3.68686
+"World",2017,10,14,"B","Lower",338321,2.72972
+"World",2017,10,14,"B","Point",377761,3.02629
+"World",2017,10,14,"B","Upper",453557,3.67585
+"World",2018,10,14,"B","Lower",331117,2.67673
+"World",2018,10,14,"B","Point",372114,2.95514
+"World",2018,10,14,"B","Upper",455293,3.64648
+"World",2019,10,14,"B","Lower",326403,2.61629
+"World",2019,10,14,"B","Point",368151,2.89793
+"World",2019,10,14,"B","Upper",462580,3.68514
+"East Asia and Pacific",2000,10,14,"B","Lower",69258,1.72718
+"East Asia and Pacific",2000,10,14,"B","Point",89436,2.21217
+"East Asia and Pacific",2000,10,14,"B","Upper",129343,3.19788
+"East Asia and Pacific",2001,10,14,"B","Lower",67991,1.72414
+"East Asia and Pacific",2001,10,14,"B","Point",85592,2.14189
+"East Asia and Pacific",2001,10,14,"B","Upper",118714,2.96949
+"East Asia and Pacific",2002,10,14,"B","Lower",65017,1.68336
+"East Asia and Pacific",2002,10,14,"B","Point",80816,2.08155
+"East Asia and Pacific",2002,10,14,"B","Upper",108721,2.79919
+"East Asia and Pacific",2003,10,14,"B","Lower",61867,1.6768
+"East Asia and Pacific",2003,10,14,"B","Point",75567,2.0308
+"East Asia and Pacific",2003,10,14,"B","Upper",98570,2.64821
+"East Asia and Pacific",2004,10,14,"B","Lower",70246,1.98606
+"East Asia and Pacific",2004,10,14,"B","Point",86816,2.44161
+"East Asia and Pacific",2004,10,14,"B","Upper",108495,3.0501
+"East Asia and Pacific",2005,10,14,"B","Lower",54260,1.60758
+"East Asia and Pacific",2005,10,14,"B","Point",66398,1.93824
+"East Asia and Pacific",2005,10,14,"B","Upper",82590,2.41032
+"East Asia and Pacific",2006,10,14,"B","Lower",51661,1.56617
+"East Asia and Pacific",2006,10,14,"B","Point",62773,1.88738
+"East Asia and Pacific",2006,10,14,"B","Upper",77029,2.31567
+"East Asia and Pacific",2007,10,14,"B","Lower",49375,1.51504
+"East Asia and Pacific",2007,10,14,"B","Point",59866,1.83662
+"East Asia and Pacific",2007,10,14,"B","Upper",72162,2.21344
+"East Asia and Pacific",2008,10,14,"B","Lower",59275,1.84543
+"East Asia and Pacific",2008,10,14,"B","Point",74578,2.31586
+"East Asia and Pacific",2008,10,14,"B","Upper",97156,3.01578
+"East Asia and Pacific",2009,10,14,"B","Lower",45278,1.42003
+"East Asia and Pacific",2009,10,14,"B","Point",55358,1.73597
+"East Asia and Pacific",2009,10,14,"B","Upper",66596,2.08788
+"East Asia and Pacific",2010,10,14,"B","Lower",43313,1.37362
+"East Asia and Pacific",2010,10,14,"B","Point",53224,1.68661
+"East Asia and Pacific",2010,10,14,"B","Upper",65008,2.05968
+"East Asia and Pacific",2011,10,14,"B","Lower",41192,1.31975
+"East Asia and Pacific",2011,10,14,"B","Point",51402,1.64567
+"East Asia and Pacific",2011,10,14,"B","Upper",63611,2.03617
+"East Asia and Pacific",2012,10,14,"B","Lower",38968,1.2643
+"East Asia and Pacific",2012,10,14,"B","Point",49312,1.59458
+"East Asia and Pacific",2012,10,14,"B","Upper",62727,2.03522
+"East Asia and Pacific",2013,10,14,"B","Lower",37785,1.23606
+"East Asia and Pacific",2013,10,14,"B","Point",48120,1.57077
+"East Asia and Pacific",2013,10,14,"B","Upper",62942,2.05504
+"East Asia and Pacific",2014,10,14,"B","Lower",35021,1.15588
+"East Asia and Pacific",2014,10,14,"B","Point",45988,1.51256
+"East Asia and Pacific",2014,10,14,"B","Upper",61663,2.02994
+"East Asia and Pacific",2015,10,14,"B","Lower",33388,1.10744
+"East Asia and Pacific",2015,10,14,"B","Point",44599,1.47371
+"East Asia and Pacific",2015,10,14,"B","Upper",61130,2.02181
+"East Asia and Pacific",2016,10,14,"B","Lower",31888,1.05711
+"East Asia and Pacific",2016,10,14,"B","Point",43326,1.43505
+"East Asia and Pacific",2016,10,14,"B","Upper",61361,2.04141
+"East Asia and Pacific",2017,10,14,"B","Lower",30646,1.02174
+"East Asia and Pacific",2017,10,14,"B","Point",42218,1.39777
+"East Asia and Pacific",2017,10,14,"B","Upper",62178,2.05817
+"East Asia and Pacific",2018,10,14,"B","Lower",29546,0.98932
+"East Asia and Pacific",2018,10,14,"B","Point",41282,1.36379
+"East Asia and Pacific",2018,10,14,"B","Upper",62604,2.06744
+"East Asia and Pacific",2019,10,14,"B","Lower",28982,0.9664
+"East Asia and Pacific",2019,10,14,"B","Point",40351,1.32837
+"East Asia and Pacific",2019,10,14,"B","Upper",63166,2.08218
+"Eastern and Southern Africa",2000,10,14,"B","Lower",63437,7.11909
+"Eastern and Southern Africa",2000,10,14,"B","Point",81437,9.02344
+"Eastern and Southern Africa",2000,10,14,"B","Upper",100012,11.07643
+"Eastern and Southern Africa",2001,10,14,"B","Lower",63882,6.981
+"Eastern and Southern Africa",2001,10,14,"B","Point",80713,8.76826
+"Eastern and Southern Africa",2001,10,14,"B","Upper",98697,10.75189
+"Eastern and Southern Africa",2002,10,14,"B","Lower",63975,6.8456
+"Eastern and Southern Africa",2002,10,14,"B","Point",79994,8.51911
+"Eastern and Southern Africa",2002,10,14,"B","Upper",97189,10.39514
+"Eastern and Southern Africa",2003,10,14,"B","Lower",63933,6.67612
+"Eastern and Southern Africa",2003,10,14,"B","Point",79267,8.2675
+"Eastern and Southern Africa",2003,10,14,"B","Upper",96243,10.09558
+"Eastern and Southern Africa",2004,10,14,"B","Lower",63782,6.52436
+"Eastern and Southern Africa",2004,10,14,"B","Point",78578,8.01853
+"Eastern and Southern Africa",2004,10,14,"B","Upper",95215,9.86118
+"Eastern and Southern Africa",2005,10,14,"B","Lower",62712,6.29274
+"Eastern and Southern Africa",2005,10,14,"B","Point",77895,7.76767
+"Eastern and Southern Africa",2005,10,14,"B","Upper",94832,9.48975
+"Eastern and Southern Africa",2006,10,14,"B","Lower",62178,6.08232
+"Eastern and Southern Africa",2006,10,14,"B","Point",77046,7.50848
+"Eastern and Southern Africa",2006,10,14,"B","Upper",94269,9.20056
+"Eastern and Southern Africa",2007,10,14,"B","Lower",61282,5.86118
+"Eastern and Southern Africa",2007,10,14,"B","Point",76256,7.25068
+"Eastern and Southern Africa",2007,10,14,"B","Upper",93445,8.94771
+"Eastern and Southern Africa",2008,10,14,"B","Lower",59774,5.60487
+"Eastern and Southern Africa",2008,10,14,"B","Point",75490,6.99609
+"Eastern and Southern Africa",2008,10,14,"B","Upper",92950,8.67063
+"Eastern and Southern Africa",2009,10,14,"B","Lower",58567,5.38537
+"Eastern and Southern Africa",2009,10,14,"B","Point",74998,6.77162
+"Eastern and Southern Africa",2009,10,14,"B","Upper",92880,8.43459
+"Eastern and Southern Africa",2010,10,14,"B","Lower",57319,5.1237
+"Eastern and Southern Africa",2010,10,14,"B","Point",73942,6.50585
+"Eastern and Southern Africa",2010,10,14,"B","Upper",92227,8.17233
+"Eastern and Southern Africa",2011,10,14,"B","Lower",55773,4.86663
+"Eastern and Southern Africa",2011,10,14,"B","Point",73098,6.28014
+"Eastern and Southern Africa",2011,10,14,"B","Upper",91618,7.9277
+"Eastern and Southern Africa",2012,10,14,"B","Lower",54608,4.69162
+"Eastern and Southern Africa",2012,10,14,"B","Point",72295,6.06077
+"Eastern and Southern Africa",2012,10,14,"B","Upper",91693,7.72441
+"Eastern and Southern Africa",2013,10,14,"B","Lower",53408,4.55714
+"Eastern and Southern Africa",2013,10,14,"B","Point",71685,5.86442
+"Eastern and Southern Africa",2013,10,14,"B","Upper",92563,7.62143
+"Eastern and Southern Africa",2014,10,14,"B","Lower",52930,4.37051
+"Eastern and Southern Africa",2014,10,14,"B","Point",71160,5.68044
+"Eastern and Southern Africa",2014,10,14,"B","Upper",94101,7.60737
+"Eastern and Southern Africa",2015,10,14,"B","Lower",52210,4.24119
+"Eastern and Southern Africa",2015,10,14,"B","Point",70745,5.50956
+"Eastern and Southern Africa",2015,10,14,"B","Upper",95362,7.54249
+"Eastern and Southern Africa",2016,10,14,"B","Lower",51846,4.15853
+"Eastern and Southern Africa",2016,10,14,"B","Point",70498,5.3577
+"Eastern and Southern Africa",2016,10,14,"B","Upper",97233,7.54631
+"Eastern and Southern Africa",2017,10,14,"B","Lower",51564,4.08289
+"Eastern and Southern Africa",2017,10,14,"B","Point",70339,5.21587
+"Eastern and Southern Africa",2017,10,14,"B","Upper",100238,7.51681
+"Eastern and Southern Africa",2018,10,14,"B","Lower",50912,3.97168
+"Eastern and Southern Africa",2018,10,14,"B","Point",70293,5.08699
+"Eastern and Southern Africa",2018,10,14,"B","Upper",102732,7.59895
+"Eastern and Southern Africa",2019,10,14,"B","Lower",51199,3.88153
+"Eastern and Southern Africa",2019,10,14,"B","Point",70195,4.96223
+"Eastern and Southern Africa",2019,10,14,"B","Upper",104944,7.66476
+"Eastern Europe and central Asia",2000,10,14,"B","Lower",14399,2.01982
+"Eastern Europe and central Asia",2000,10,14,"B","Point",15814,2.21799
+"Eastern Europe and central Asia",2000,10,14,"B","Upper",17392,2.43903
+"Eastern Europe and central Asia",2001,10,14,"B","Lower",13886,1.99388
+"Eastern Europe and central Asia",2001,10,14,"B","Point",15152,2.17564
+"Eastern Europe and central Asia",2001,10,14,"B","Upper",16591,2.38175
+"Eastern Europe and central Asia",2002,10,14,"B","Lower",13144,1.95187
+"Eastern Europe and central Asia",2002,10,14,"B","Point",14248,2.11554
+"Eastern Europe and central Asia",2002,10,14,"B","Upper",15567,2.31107
+"Eastern Europe and central Asia",2003,10,14,"B","Lower",12279,1.90083
+"Eastern Europe and central Asia",2003,10,14,"B","Point",13243,2.04968
+"Eastern Europe and central Asia",2003,10,14,"B","Upper",14414,2.23084
+"Eastern Europe and central Asia",2004,10,14,"B","Lower",11444,1.85097
+"Eastern Europe and central Asia",2004,10,14,"B","Point",12268,1.98357
+"Eastern Europe and central Asia",2004,10,14,"B","Upper",13216,2.13711
+"Eastern Europe and central Asia",2005,10,14,"B","Lower",10702,1.80205
+"Eastern Europe and central Asia",2005,10,14,"B","Point",11398,1.91919
+"Eastern Europe and central Asia",2005,10,14,"B","Upper",12149,2.0452
+"Eastern Europe and central Asia",2006,10,14,"B","Lower",10111,1.76229
+"Eastern Europe and central Asia",2006,10,14,"B","Point",10651,1.85592
+"Eastern Europe and central Asia",2006,10,14,"B","Upper",11248,1.96009
+"Eastern Europe and central Asia",2007,10,14,"B","Lower",9539,1.71593
+"Eastern Europe and central Asia",2007,10,14,"B","Point",9968,1.79241
+"Eastern Europe and central Asia",2007,10,14,"B","Upper",10436,1.87699
+"Eastern Europe and central Asia",2008,10,14,"B","Lower",9015,1.66986
+"Eastern Europe and central Asia",2008,10,14,"B","Point",9353,1.73291
+"Eastern Europe and central Asia",2008,10,14,"B","Upper",9718,1.79968
+"Eastern Europe and central Asia",2009,10,14,"B","Lower",8508,1.61898
+"Eastern Europe and central Asia",2009,10,14,"B","Point",8763,1.66616
+"Eastern Europe and central Asia",2009,10,14,"B","Upper",9040,1.7201
+"Eastern Europe and central Asia",2010,10,14,"B","Lower",8023,1.56289
+"Eastern Europe and central Asia",2010,10,14,"B","Point",8231,1.60351
+"Eastern Europe and central Asia",2010,10,14,"B","Upper",8473,1.65028
+"Eastern Europe and central Asia",2011,10,14,"B","Lower",7591,1.50323
+"Eastern Europe and central Asia",2011,10,14,"B","Point",7781,1.53982
+"Eastern Europe and central Asia",2011,10,14,"B","Upper",7986,1.58118
+"Eastern Europe and central Asia",2012,10,14,"B","Lower",7234,1.44429
+"Eastern Europe and central Asia",2012,10,14,"B","Point",7408,1.47945
+"Eastern Europe and central Asia",2012,10,14,"B","Upper",7605,1.51812
+"Eastern Europe and central Asia",2013,10,14,"B","Lower",6965,1.39165
+"Eastern Europe and central Asia",2013,10,14,"B","Point",7135,1.42464
+"Eastern Europe and central Asia",2013,10,14,"B","Upper",7318,1.46201
+"Eastern Europe and central Asia",2014,10,14,"B","Lower",6918,1.3748
+"Eastern Europe and central Asia",2014,10,14,"B","Point",7076,1.40709
+"Eastern Europe and central Asia",2014,10,14,"B","Upper",7268,1.44413
+"Eastern Europe and central Asia",2015,10,14,"B","Lower",6626,1.30176
+"Eastern Europe and central Asia",2015,10,14,"B","Point",6791,1.33398
+"Eastern Europe and central Asia",2015,10,14,"B","Upper",6989,1.37276
+"Eastern Europe and central Asia",2016,10,14,"B","Lower",6516,1.25854
+"Eastern Europe and central Asia",2016,10,14,"B","Point",6700,1.29469
+"Eastern Europe and central Asia",2016,10,14,"B","Upper",6907,1.33397
+"Eastern Europe and central Asia",2017,10,14,"B","Lower",6442,1.21722
+"Eastern Europe and central Asia",2017,10,14,"B","Point",6646,1.25508
+"Eastern Europe and central Asia",2017,10,14,"B","Upper",6873,1.29855
+"Eastern Europe and central Asia",2018,10,14,"B","Lower",6364,1.17305
+"Eastern Europe and central Asia",2018,10,14,"B","Point",6595,1.21507
+"Eastern Europe and central Asia",2018,10,14,"B","Upper",6861,1.26435
+"Eastern Europe and central Asia",2019,10,14,"B","Lower",6247,1.12285
+"Eastern Europe and central Asia",2019,10,14,"B","Point",6532,1.17364
+"Eastern Europe and central Asia",2019,10,14,"B","Upper",6871,1.23474
+"Latin America and Caribbean",2000,10,14,"B","Lower",21194,1.94327
+"Latin America and Caribbean",2000,10,14,"B","Point",22406,2.05466
+"Latin America and Caribbean",2000,10,14,"B","Upper",23725,2.17501
+"Latin America and Caribbean",2001,10,14,"B","Lower",20961,1.91769
+"Latin America and Caribbean",2001,10,14,"B","Point",22181,2.02951
+"Latin America and Caribbean",2001,10,14,"B","Upper",23491,2.14882
+"Latin America and Caribbean",2002,10,14,"B","Lower",20586,1.87877
+"Latin America and Caribbean",2002,10,14,"B","Point",21787,1.98781
+"Latin America and Caribbean",2002,10,14,"B","Upper",23085,2.10593
+"Latin America and Caribbean",2003,10,14,"B","Lower",20374,1.85299
+"Latin America and Caribbean",2003,10,14,"B","Point",21551,1.95949
+"Latin America and Caribbean",2003,10,14,"B","Upper",22836,2.07613
+"Latin America and Caribbean",2004,10,14,"B","Lower",20428,1.85142
+"Latin America and Caribbean",2004,10,14,"B","Point",21774,1.97241
+"Latin America and Caribbean",2004,10,14,"B","Upper",23211,2.1027
+"Latin America and Caribbean",2005,10,14,"B","Lower",20074,1.81322
+"Latin America and Caribbean",2005,10,14,"B","Point",21290,1.92251
+"Latin America and Caribbean",2005,10,14,"B","Upper",22591,2.04023
+"Latin America and Caribbean",2006,10,14,"B","Lower",19795,1.78434
+"Latin America and Caribbean",2006,10,14,"B","Point",20992,1.89212
+"Latin America and Caribbean",2006,10,14,"B","Upper",22342,2.01368
+"Latin America and Caribbean",2007,10,14,"B","Lower",19560,1.76217
+"Latin America and Caribbean",2007,10,14,"B","Point",20791,1.87183
+"Latin America and Caribbean",2007,10,14,"B","Upper",22082,1.98804
+"Latin America and Caribbean",2008,10,14,"B","Lower",19257,1.73522
+"Latin America and Caribbean",2008,10,14,"B","Point",20546,1.84958
+"Latin America and Caribbean",2008,10,14,"B","Upper",21849,1.96848
+"Latin America and Caribbean",2009,10,14,"B","Lower",18945,1.71026
+"Latin America and Caribbean",2009,10,14,"B","Point",20243,1.8245
+"Latin America and Caribbean",2009,10,14,"B","Upper",21608,1.94841
+"Latin America and Caribbean",2010,10,14,"B","Lower",26343,2.37814
+"Latin America and Caribbean",2010,10,14,"B","Point",37556,3.38885
+"Latin America and Caribbean",2010,10,14,"B","Upper",50175,4.52469
+"Latin America and Caribbean",2011,10,14,"B","Lower",18230,1.65644
+"Latin America and Caribbean",2011,10,14,"B","Point",19499,1.76673
+"Latin America and Caribbean",2011,10,14,"B","Upper",21015,1.90414
+"Latin America and Caribbean",2012,10,14,"B","Lower",17806,1.62371
+"Latin America and Caribbean",2012,10,14,"B","Point",19091,1.7374
+"Latin America and Caribbean",2012,10,14,"B","Upper",20704,1.88379
+"Latin America and Caribbean",2013,10,14,"B","Lower",17382,1.59514
+"Latin America and Caribbean",2013,10,14,"B","Point",18697,1.70926
+"Latin America and Caribbean",2013,10,14,"B","Upper",20428,1.86746
+"Latin America and Caribbean",2014,10,14,"B","Lower",17004,1.56916
+"Latin America and Caribbean",2014,10,14,"B","Point",18313,1.6829
+"Latin America and Caribbean",2014,10,14,"B","Upper",20137,1.85032
+"Latin America and Caribbean",2015,10,14,"B","Lower",16630,1.54386
+"Latin America and Caribbean",2015,10,14,"B","Point",17945,1.65835
+"Latin America and Caribbean",2015,10,14,"B","Upper",19895,1.8386
+"Latin America and Caribbean",2016,10,14,"B","Lower",16222,1.5161
+"Latin America and Caribbean",2016,10,14,"B","Point",17536,1.63404
+"Latin America and Caribbean",2016,10,14,"B","Upper",19567,1.82306
+"Latin America and Caribbean",2017,10,14,"B","Lower",15786,1.48606
+"Latin America and Caribbean",2017,10,14,"B","Point",17121,1.60925
+"Latin America and Caribbean",2017,10,14,"B","Upper",19275,1.81112
+"Latin America and Caribbean",2018,10,14,"B","Lower",15335,1.45576
+"Latin America and Caribbean",2018,10,14,"B","Point",16714,1.58417
+"Latin America and Caribbean",2018,10,14,"B","Upper",18972,1.79819
+"Latin America and Caribbean",2019,10,14,"B","Lower",14852,1.42054
+"Latin America and Caribbean",2019,10,14,"B","Point",16313,1.55737
+"Latin America and Caribbean",2019,10,14,"B","Upper",18668,1.7846
+"Middle East and North Africa",2000,10,14,"B","Lower",17946,2.28366
+"Middle East and North Africa",2000,10,14,"B","Point",20552,2.61059
+"Middle East and North Africa",2000,10,14,"B","Upper",23380,2.96971
+"Middle East and North Africa",2001,10,14,"B","Lower",17351,2.2131
+"Middle East and North Africa",2001,10,14,"B","Point",19841,2.52215
+"Middle East and North Africa",2001,10,14,"B","Upper",22637,2.88183
+"Middle East and North Africa",2002,10,14,"B","Lower",16677,2.14647
+"Middle East and North Africa",2002,10,14,"B","Point",19133,2.44504
+"Middle East and North Africa",2002,10,14,"B","Upper",21927,2.8021
+"Middle East and North Africa",2003,10,14,"B","Lower",20373,2.63718
+"Middle East and North Africa",2003,10,14,"B","Point",25373,3.26608
+"Middle East and North Africa",2003,10,14,"B","Upper",31821,4.10893
+"Middle East and North Africa",2004,10,14,"B","Lower",16874,2.2225
+"Middle East and North Africa",2004,10,14,"B","Point",21444,2.78405
+"Middle East and North Africa",2004,10,14,"B","Upper",27589,3.6026
+"Middle East and North Africa",2005,10,14,"B","Lower",16362,2.18127
+"Middle East and North Africa",2005,10,14,"B","Point",21528,2.8166
+"Middle East and North Africa",2005,10,14,"B","Upper",29061,3.80075
+"Middle East and North Africa",2006,10,14,"B","Lower",16519,2.24169
+"Middle East and North Africa",2006,10,14,"B","Point",23927,3.15896
+"Middle East and North Africa",2006,10,14,"B","Upper",35114,4.63364
+"Middle East and North Africa",2007,10,14,"B","Lower",15893,2.18048
+"Middle East and North Africa",2007,10,14,"B","Point",22405,2.98628
+"Middle East and North Africa",2007,10,14,"B","Upper",32934,4.38629
+"Middle East and North Africa",2008,10,14,"B","Lower",14695,2.02002
+"Middle East and North Africa",2008,10,14,"B","Point",18538,2.49042
+"Middle East and North Africa",2008,10,14,"B","Upper",24722,3.32377
+"Middle East and North Africa",2009,10,14,"B","Lower",14087,1.94263
+"Middle East and North Africa",2009,10,14,"B","Point",17124,2.31442
+"Middle East and North Africa",2009,10,14,"B","Upper",22077,2.99106
+"Middle East and North Africa",2010,10,14,"B","Lower",13528,1.87978
+"Middle East and North Africa",2010,10,14,"B","Point",16374,2.2207
+"Middle East and North Africa",2010,10,14,"B","Upper",21001,2.85726
+"Middle East and North Africa",2011,10,14,"B","Lower",14125,1.97213
+"Middle East and North Africa",2011,10,14,"B","Point",17023,2.31876
+"Middle East and North Africa",2011,10,14,"B","Upper",22226,3.02803
+"Middle East and North Africa",2012,10,14,"B","Lower",19017,2.64379
+"Middle East and North Africa",2012,10,14,"B","Point",22195,3.0285
+"Middle East and North Africa",2012,10,14,"B","Upper",27689,3.79674
+"Middle East and North Africa",2013,10,14,"B","Lower",20485,2.8553
+"Middle East and North Africa",2013,10,14,"B","Point",24550,3.34564
+"Middle East and North Africa",2013,10,14,"B","Upper",32121,4.45115
+"Middle East and North Africa",2014,10,14,"B","Lower",21590,2.99141
+"Middle East and North Africa",2014,10,14,"B","Point",27613,3.74632
+"Middle East and North Africa",2014,10,14,"B","Upper",40692,5.57966
+"Middle East and North Africa",2015,10,14,"B","Lower",19203,2.64655
+"Middle East and North Africa",2015,10,14,"B","Point",25133,3.38118
+"Middle East and North Africa",2015,10,14,"B","Upper",36917,5.035
+"Middle East and North Africa",2016,10,14,"B","Lower",18275,2.47608
+"Middle East and North Africa",2016,10,14,"B","Point",24596,3.2658
+"Middle East and North Africa",2016,10,14,"B","Upper",39010,5.17576
+"Middle East and North Africa",2017,10,14,"B","Lower",16476,2.21996
+"Middle East and North Africa",2017,10,14,"B","Point",22003,2.87127
+"Middle East and North Africa",2017,10,14,"B","Upper",33630,4.44524
+"Middle East and North Africa",2018,10,14,"B","Lower",14672,1.91082
+"Middle East and North Africa",2018,10,14,"B","Point",19010,2.43006
+"Middle East and North Africa",2018,10,14,"B","Upper",27529,3.52043
+"Middle East and North Africa",2019,10,14,"B","Lower",13768,1.73383
+"Middle East and North Africa",2019,10,14,"B","Point",17797,2.22044
+"Middle East and North Africa",2019,10,14,"B","Upper",26031,3.24546
+"North America",2000,10,14,"B","Lower",4339,0.95235
+"North America",2000,10,14,"B","Point",4549,0.99845
+"North America",2000,10,14,"B","Upper",4751,1.04237
+"North America",2001,10,14,"B","Lower",4251,0.91965
+"North America",2001,10,14,"B","Point",4463,0.96516
+"North America",2001,10,14,"B","Upper",4666,1.0091
+"North America",2002,10,14,"B","Lower",4209,0.89988
+"North America",2002,10,14,"B","Point",4391,0.93873
+"North America",2002,10,14,"B","Upper",4571,0.97709
+"North America",2003,10,14,"B","Lower",4131,0.87549
+"North America",2003,10,14,"B","Point",4320,0.91529
+"North America",2003,10,14,"B","Upper",4505,0.95449
+"North America",2004,10,14,"B","Lower",4057,0.85545
+"North America",2004,10,14,"B","Point",4229,0.89154
+"North America",2004,10,14,"B","Upper",4419,0.93144
+"North America",2005,10,14,"B","Lower",3930,0.82957
+"North America",2005,10,14,"B","Point",4103,0.86582
+"North America",2005,10,14,"B","Upper",4286,0.90433
+"North America",2006,10,14,"B","Lower",3776,0.80276
+"North America",2006,10,14,"B","Point",3939,0.83735
+"North America",2006,10,14,"B","Upper",4114,0.87432
+"North America",2007,10,14,"B","Lower",3609,0.77449
+"North America",2007,10,14,"B","Point",3758,0.80639
+"North America",2007,10,14,"B","Upper",3916,0.84011
+"North America",2008,10,14,"B","Lower",3432,0.74393
+"North America",2008,10,14,"B","Point",3578,0.77538
+"North America",2008,10,14,"B","Upper",3741,0.81055
+"North America",2009,10,14,"B","Lower",3280,0.7163
+"North America",2009,10,14,"B","Point",3424,0.7476
+"North America",2009,10,14,"B","Upper",3571,0.7797
+"North America",2010,10,14,"B","Lower",3159,0.69173
+"North America",2010,10,14,"B","Point",3311,0.72494
+"North America",2010,10,14,"B","Upper",3451,0.75541
+"North America",2011,10,14,"B","Lower",3073,0.67513
+"North America",2011,10,14,"B","Point",3230,0.70987
+"North America",2011,10,14,"B","Upper",3367,0.73966
+"North America",2012,10,14,"B","Lower",3048,0.67109
+"North America",2012,10,14,"B","Point",3191,0.70266
+"North America",2012,10,14,"B","Upper",3327,0.73231
+"North America",2013,10,14,"B","Lower",3046,0.67182
+"North America",2013,10,14,"B","Point",3186,0.70268
+"North America",2013,10,14,"B","Upper",3318,0.7316
+"North America",2014,10,14,"B","Lower",3066,0.67741
+"North America",2014,10,14,"B","Point",3204,0.70784
+"North America",2014,10,14,"B","Upper",3333,0.73607
+"North America",2015,10,14,"B","Lower",3091,0.68354
+"North America",2015,10,14,"B","Point",3238,0.71597
+"North America",2015,10,14,"B","Upper",3372,0.74561
+"North America",2016,10,14,"B","Lower",3141,0.69026
+"North America",2016,10,14,"B","Point",3302,0.72551
+"North America",2016,10,14,"B","Upper",3458,0.75973
+"North America",2017,10,14,"B","Lower",3128,0.6829
+"North America",2017,10,14,"B","Point",3367,0.73477
+"North America",2017,10,14,"B","Upper",3627,0.7915
+"North America",2018,10,14,"B","Lower",3075,0.66715
+"North America",2018,10,14,"B","Point",3419,0.74176
+"North America",2018,10,14,"B","Upper",3840,0.83293
+"North America",2019,10,14,"B","Lower",2952,0.6385
+"North America",2019,10,14,"B","Point",3440,0.74386
+"North America",2019,10,14,"B","Upper",4050,0.87549
+"South Asia",2000,10,14,"B","Lower",145707,4.60954
+"South Asia",2000,10,14,"B","Point",168714,5.33531
+"South Asia",2000,10,14,"B","Upper",191810,6.06361
+"South Asia",2001,10,14,"B","Lower",142043,4.44991
+"South Asia",2001,10,14,"B","Point",164602,5.15487
+"South Asia",2001,10,14,"B","Upper",187246,5.86184
+"South Asia",2002,10,14,"B","Lower",138904,4.31251
+"South Asia",2002,10,14,"B","Point",161746,5.01993
+"South Asia",2002,10,14,"B","Upper",183741,5.70058
+"South Asia",2003,10,14,"B","Lower",135759,4.17993
+"South Asia",2003,10,14,"B","Point",158129,4.86697
+"South Asia",2003,10,14,"B","Upper",178847,5.50292
+"South Asia",2004,10,14,"B","Lower",137845,4.21055
+"South Asia",2004,10,14,"B","Point",159152,4.85982
+"South Asia",2004,10,14,"B","Upper",179098,5.46719
+"South Asia",2005,10,14,"B","Lower",132298,4.01062
+"South Asia",2005,10,14,"B","Point",153735,4.65894
+"South Asia",2005,10,14,"B","Upper",174040,5.27265
+"South Asia",2006,10,14,"B","Lower",130489,3.92699
+"South Asia",2006,10,14,"B","Point",151507,4.55802
+"South Asia",2006,10,14,"B","Upper",171552,5.15956
+"South Asia",2007,10,14,"B","Lower",129527,3.86823
+"South Asia",2007,10,14,"B","Point",148695,4.43942
+"South Asia",2007,10,14,"B","Upper",168329,5.02408
+"South Asia",2008,10,14,"B","Lower",126654,3.75298
+"South Asia",2008,10,14,"B","Point",146068,4.32701
+"South Asia",2008,10,14,"B","Upper",165682,4.90659
+"South Asia",2009,10,14,"B","Lower",122617,3.60602
+"South Asia",2009,10,14,"B","Point",142055,4.17644
+"South Asia",2009,10,14,"B","Upper",163011,4.79108
+"South Asia",2010,10,14,"B","Lower",117245,3.42452
+"South Asia",2010,10,14,"B","Point",136416,3.98332
+"South Asia",2010,10,14,"B","Upper",158110,4.61532
+"South Asia",2011,10,14,"B","Lower",112058,3.25519
+"South Asia",2011,10,14,"B","Point",131326,3.81384
+"South Asia",2011,10,14,"B","Upper",155149,4.5041
+"South Asia",2012,10,14,"B","Lower",106562,3.08004
+"South Asia",2012,10,14,"B","Point",126174,3.64584
+"South Asia",2012,10,14,"B","Upper",151267,4.36933
+"South Asia",2013,10,14,"B","Lower",101138,2.91039
+"South Asia",2013,10,14,"B","Point",121098,3.48374
+"South Asia",2013,10,14,"B","Upper",146891,4.22421
+"South Asia",2014,10,14,"B","Lower",94322,2.70448
+"South Asia",2014,10,14,"B","Point",116286,3.33312
+"South Asia",2014,10,14,"B","Upper",145778,4.17676
+"South Asia",2015,10,14,"B","Lower",88698,2.53856
+"South Asia",2015,10,14,"B","Point",112683,3.22093
+"South Asia",2015,10,14,"B","Upper",146563,4.1873
+"South Asia",2016,10,14,"B","Lower",82255,2.36177
+"South Asia",2016,10,14,"B","Point",108036,3.08072
+"South Asia",2016,10,14,"B","Upper",146670,4.1811
+"South Asia",2017,10,14,"B","Lower",76273,2.22348
+"South Asia",2017,10,14,"B","Point",104963,2.98881
+"South Asia",2017,10,14,"B","Upper",149043,4.31253
+"South Asia",2018,10,14,"B","Lower",71172,2.09335
+"South Asia",2018,10,14,"B","Point",102367,2.91318
+"South Asia",2018,10,14,"B","Upper",153479,4.39299
+"South Asia",2019,10,14,"B","Lower",67424,1.99573
+"South Asia",2019,10,14,"B","Point",100002,2.84856
+"South Asia",2019,10,14,"B","Upper",157641,4.49317
+"West and central Africa",2000,10,14,"B","Lower",66271,8.46581
+"West and central Africa",2000,10,14,"B","Point",83055,10.52445
+"West and central Africa",2000,10,14,"B","Upper",102541,13.02697
+"West and central Africa",2001,10,14,"B","Lower",67102,8.33853
+"West and central Africa",2001,10,14,"B","Point",83892,10.39691
+"West and central Africa",2001,10,14,"B","Upper",102209,12.70812
+"West and central Africa",2002,10,14,"B","Lower",68112,8.30341
+"West and central Africa",2002,10,14,"B","Point",85058,10.29642
+"West and central Africa",2002,10,14,"B","Upper",102809,12.47881
+"West and central Africa",2003,10,14,"B","Lower",69610,8.26607
+"West and central Africa",2003,10,14,"B","Point",86378,10.19933
+"West and central Africa",2003,10,14,"B","Upper",103874,12.28184
+"West and central Africa",2004,10,14,"B","Lower",70639,8.15613
+"West and central Africa",2004,10,14,"B","Point",87228,10.0372
+"West and central Africa",2004,10,14,"B","Upper",104698,12.06692
+"West and central Africa",2005,10,14,"B","Lower",71731,8.07422
+"West and central Africa",2005,10,14,"B","Point",88558,9.92633
+"West and central Africa",2005,10,14,"B","Upper",106166,11.91414
+"West and central Africa",2006,10,14,"B","Lower",72672,7.97151
+"West and central Africa",2006,10,14,"B","Point",89815,9.81378
+"West and central Africa",2006,10,14,"B","Upper",108081,11.8213
+"West and central Africa",2007,10,14,"B","Lower",73304,7.86095
+"West and central Africa",2007,10,14,"B","Point",91273,9.70622
+"West and central Africa",2007,10,14,"B","Upper",109615,11.66783
+"West and central Africa",2008,10,14,"B","Lower",74404,7.69754
+"West and central Africa",2008,10,14,"B","Point",92934,9.60379
+"West and central Africa",2008,10,14,"B","Upper",111934,11.63396
+"West and central Africa",2009,10,14,"B","Lower",75063,7.56961
+"West and central Africa",2009,10,14,"B","Point",94631,9.49629
+"West and central Africa",2009,10,14,"B","Upper",114126,11.52977
+"West and central Africa",2010,10,14,"B","Lower",75846,7.40112
+"West and central Africa",2010,10,14,"B","Point",96409,9.39163
+"West and central Africa",2010,10,14,"B","Upper",117281,11.48267
+"West and central Africa",2011,10,14,"B","Lower",76436,7.31645
+"West and central Africa",2011,10,14,"B","Point",98232,9.29025
+"West and central Africa",2011,10,14,"B","Upper",120816,11.51826
+"West and central Africa",2012,10,14,"B","Lower",76685,7.1433
+"West and central Africa",2012,10,14,"B","Point",100184,9.18843
+"West and central Africa",2012,10,14,"B","Upper",124528,11.52975
+"West and central Africa",2013,10,14,"B","Lower",77513,6.94144
+"West and central Africa",2013,10,14,"B","Point",102098,9.07385
+"West and central Africa",2013,10,14,"B","Upper",129518,11.54185
+"West and central Africa",2014,10,14,"B","Lower",79301,6.93766
+"West and central Africa",2014,10,14,"B","Point",104771,9.02137
+"West and central Africa",2014,10,14,"B","Upper",134890,11.67298
+"West and central Africa",2015,10,14,"B","Lower",79826,6.72557
+"West and central Africa",2015,10,14,"B","Point",105761,8.83038
+"West and central Africa",2015,10,14,"B","Upper",138154,11.65371
+"West and central Africa",2016,10,14,"B","Lower",80113,6.55459
+"West and central Africa",2016,10,14,"B","Point",107340,8.6989
+"West and central Africa",2016,10,14,"B","Upper",143781,11.68476
+"West and central Africa",2017,10,14,"B","Lower",79711,6.4124
+"West and central Africa",2017,10,14,"B","Point",108788,8.55701
+"West and central Africa",2017,10,14,"B","Upper",148761,11.79653
+"West and central Africa",2018,10,14,"B","Lower",79668,6.25479
+"West and central Africa",2018,10,14,"B","Point",110142,8.40995
+"West and central Africa",2018,10,14,"B","Upper",154040,11.79539
+"West and central Africa",2019,10,14,"B","Lower",79663,6.0618
+"West and central Africa",2019,10,14,"B","Point",111246,8.25101
+"West and central Africa",2019,10,14,"B","Upper",159270,11.91729
+"Western Europe",2000,10,14,"B","Lower",4422,0.78279
+"Western Europe",2000,10,14,"B","Point",4498,0.79699
+"Western Europe",2000,10,14,"B","Upper",4587,0.81179
+"Western Europe",2001,10,14,"B","Lower",4236,0.75532
+"Western Europe",2001,10,14,"B","Point",4312,0.76895
+"Western Europe",2001,10,14,"B","Upper",4400,0.7844
+"Western Europe",2002,10,14,"B","Lower",4052,0.72839
+"Western Europe",2002,10,14,"B","Point",4123,0.74135
+"Western Europe",2002,10,14,"B","Upper",4213,0.75719
+"Western Europe",2003,10,14,"B","Lower",3869,0.70153
+"Western Europe",2003,10,14,"B","Point",3938,0.71414
+"Western Europe",2003,10,14,"B","Upper",4023,0.72923
+"Western Europe",2004,10,14,"B","Lower",3690,0.67548
+"Western Europe",2004,10,14,"B","Point",3757,0.68733
+"Western Europe",2004,10,14,"B","Upper",3837,0.70213
+"Western Europe",2005,10,14,"B","Lower",3507,0.64899
+"Western Europe",2005,10,14,"B","Point",3572,0.66142
+"Western Europe",2005,10,14,"B","Upper",3655,0.6762
+"Western Europe",2006,10,14,"B","Lower",3334,0.62378
+"Western Europe",2006,10,14,"B","Point",3402,0.63688
+"Western Europe",2006,10,14,"B","Upper",3482,0.65115
+"Western Europe",2007,10,14,"B","Lower",3175,0.60112
+"Western Europe",2007,10,14,"B","Point",3236,0.61351
+"Western Europe",2007,10,14,"B","Upper",3309,0.62629
+"Western Europe",2008,10,14,"B","Lower",3025,0.57972
+"Western Europe",2008,10,14,"B","Point",3090,0.59171
+"Western Europe",2008,10,14,"B","Upper",3152,0.60395
+"Western Europe",2009,10,14,"B","Lower",2884,0.5589
+"Western Europe",2009,10,14,"B","Point",2943,0.57058
+"Western Europe",2009,10,14,"B","Upper",3007,0.58256
+"Western Europe",2010,10,14,"B","Lower",2756,0.53911
+"Western Europe",2010,10,14,"B","Point",2818,0.55063
+"Western Europe",2010,10,14,"B","Upper",2872,0.56142
+"Western Europe",2011,10,14,"B","Lower",2640,0.51997
+"Western Europe",2011,10,14,"B","Point",2696,0.53167
+"Western Europe",2011,10,14,"B","Upper",2751,0.54179
+"Western Europe",2012,10,14,"B","Lower",2535,0.50206
+"Western Europe",2012,10,14,"B","Point",2592,0.51332
+"Western Europe",2012,10,14,"B","Upper",2645,0.52367
+"Western Europe",2013,10,14,"B","Lower",2439,0.48513
+"Western Europe",2013,10,14,"B","Point",2497,0.49695
+"Western Europe",2013,10,14,"B","Upper",2547,0.50641
+"Western Europe",2014,10,14,"B","Lower",2362,0.47037
+"Western Europe",2014,10,14,"B","Point",2424,0.48211
+"Western Europe",2014,10,14,"B","Upper",2473,0.49233
+"Western Europe",2015,10,14,"B","Lower",2303,0.45778
+"Western Europe",2015,10,14,"B","Point",2362,0.46951
+"Western Europe",2015,10,14,"B","Upper",2416,0.47998
+"Western Europe",2016,10,14,"B","Lower",2263,0.44628
+"Western Europe",2016,10,14,"B","Point",2331,0.4591
+"Western Europe",2016,10,14,"B","Upper",2388,0.47075
+"Western Europe",2017,10,14,"B","Lower",2238,0.43668
+"Western Europe",2017,10,14,"B","Point",2316,0.45191
+"Western Europe",2017,10,14,"B","Upper",2393,0.46672
+"Western Europe",2018,10,14,"B","Lower",2194,0.42304
+"Western Europe",2018,10,14,"B","Point",2292,0.44195
+"Western Europe",2018,10,14,"B","Upper",2400,0.46239
+"Western Europe",2019,10,14,"B","Lower",2153,0.41089
+"Western Europe",2019,10,14,"B","Point",2275,0.43346
+"Western Europe",2019,10,14,"B","Upper",2427,0.46285
+"World",2000,15,19,"F","Lower",325183,5.87624
+"World",2000,15,19,"F","Point",334080,6.03634
+"World",2000,15,19,"F","Upper",346764,6.265
+"World",2001,15,19,"F","Lower",321717,5.69804
+"World",2001,15,19,"F","Point",330134,5.8467
+"World",2001,15,19,"F","Upper",342664,6.0679
+"World",2002,15,19,"F","Lower",318740,5.52018
+"World",2002,15,19,"F","Point",327296,5.66779
+"World",2002,15,19,"F","Upper",338891,5.86813
+"World",2003,15,19,"F","Lower",318755,5.40223
+"World",2003,15,19,"F","Point",327063,5.54253
+"World",2003,15,19,"F","Upper",338273,5.73206
+"World",2004,15,19,"F","Lower",321240,5.35634
+"World",2004,15,19,"F","Point",330163,5.50482
+"World",2004,15,19,"F","Upper",341758,5.69748
+"World",2005,15,19,"F","Lower",309312,5.1143
+"World",2005,15,19,"F","Point",317633,5.25126
+"World",2005,15,19,"F","Upper",328130,5.42458
+"World",2006,15,19,"F","Lower",304894,5.03929
+"World",2006,15,19,"F","Point",313013,5.17297
+"World",2006,15,19,"F","Upper",323342,5.34338
+"World",2007,15,19,"F","Lower",297202,4.94805
+"World",2007,15,19,"F","Point",305648,5.08825
+"World",2007,15,19,"F","Upper",316697,5.27176
+"World",2008,15,19,"F","Lower",295748,4.9823
+"World",2008,15,19,"F","Point",304348,5.12691
+"World",2008,15,19,"F","Upper",316801,5.33601
+"World",2009,15,19,"F","Lower",281787,4.80174
+"World",2009,15,19,"F","Point",290372,4.94752
+"World",2009,15,19,"F","Upper",302946,5.16136
+"World",2010,15,19,"F","Lower",279964,4.80765
+"World",2010,15,19,"F","Point",289469,4.97024
+"World",2010,15,19,"F","Upper",303826,5.21634
+"World",2011,15,19,"F","Lower",266336,4.59689
+"World",2011,15,19,"F","Point",276107,4.76547
+"World",2011,15,19,"F","Upper",289930,5.00309
+"World",2012,15,19,"F","Lower",260674,4.50702
+"World",2012,15,19,"F","Point",270959,4.68439
+"World",2012,15,19,"F","Upper",285516,4.93547
+"World",2013,15,19,"F","Lower",255665,4.41672
+"World",2013,15,19,"F","Point",266571,4.60478
+"World",2013,15,19,"F","Upper",281702,4.86542
+"World",2014,15,19,"F","Lower",252950,4.36258
+"World",2014,15,19,"F","Point",264113,4.55456
+"World",2014,15,19,"F","Upper",279853,4.82545
+"World",2015,15,19,"F","Lower",247373,4.2602
+"World",2015,15,19,"F","Point",259561,4.46991
+"World",2015,15,19,"F","Upper",276042,4.75274
+"World",2016,15,19,"F","Lower",241952,4.15954
+"World",2016,15,19,"F","Point",255574,4.39321
+"World",2016,15,19,"F","Upper",273120,4.69412
+"World",2017,15,19,"F","Lower",237331,4.07147
+"World",2017,15,19,"F","Point",251485,4.3135
+"World",2017,15,19,"F","Upper",269870,4.62838
+"World",2018,15,19,"F","Lower",232426,3.97604
+"World",2018,15,19,"F","Point",246985,4.2243
+"World",2018,15,19,"F","Upper",266479,4.55726
+"World",2019,15,19,"F","Lower",227530,3.87636
+"World",2019,15,19,"F","Point",243225,4.14354
+"World",2019,15,19,"F","Upper",263597,4.48944
+"East Asia and Pacific",2000,15,19,"F","Lower",51307,3.03407
+"East Asia and Pacific",2000,15,19,"F","Point",55884,3.30406
+"East Asia and Pacific",2000,15,19,"F","Upper",62026,3.66674
+"East Asia and Pacific",2001,15,19,"F","Lower",51119,2.93434
+"East Asia and Pacific",2001,15,19,"F","Point",55479,3.18412
+"East Asia and Pacific",2001,15,19,"F","Upper",61202,3.51202
+"East Asia and Pacific",2002,15,19,"F","Lower",51262,2.8275
+"East Asia and Pacific",2002,15,19,"F","Point",55457,3.05854
+"East Asia and Pacific",2002,15,19,"F","Upper",60829,3.3543
+"East Asia and Pacific",2003,15,19,"F","Lower",51395,2.72245
+"East Asia and Pacific",2003,15,19,"F","Point",55328,2.9304
+"East Asia and Pacific",2003,15,19,"F","Upper",60408,3.19909
+"East Asia and Pacific",2004,15,19,"F","Lower",56088,2.89031
+"East Asia and Pacific",2004,15,19,"F","Point",60629,3.12407
+"East Asia and Pacific",2004,15,19,"F","Upper",66677,3.43499
+"East Asia and Pacific",2005,15,19,"F","Lower",49173,2.51626
+"East Asia and Pacific",2005,15,19,"F","Point",52553,2.68886
+"East Asia and Pacific",2005,15,19,"F","Upper",56980,2.91513
+"East Asia and Pacific",2006,15,19,"F","Lower",46591,2.41562
+"East Asia and Pacific",2006,15,19,"F","Point",49772,2.5803
+"East Asia and Pacific",2006,15,19,"F","Upper",54140,2.80645
+"East Asia and Pacific",2007,15,19,"F","Lower",43300,2.32357
+"East Asia and Pacific",2007,15,19,"F","Point",46409,2.49007
+"East Asia and Pacific",2007,15,19,"F","Upper",50796,2.72522
+"East Asia and Pacific",2008,15,19,"F","Lower",45925,2.58606
+"East Asia and Pacific",2008,15,19,"F","Point",49561,2.79057
+"East Asia and Pacific",2008,15,19,"F","Upper",54950,3.09346
+"East Asia and Pacific",2009,15,19,"F","Lower",36699,2.1698
+"East Asia and Pacific",2009,15,19,"F","Point",39878,2.3574
+"East Asia and Pacific",2009,15,19,"F","Upper",44507,2.63076
+"East Asia and Pacific",2010,15,19,"F","Lower",34076,2.09416
+"East Asia and Pacific",2010,15,19,"F","Point",37331,2.29383
+"East Asia and Pacific",2010,15,19,"F","Upper",42298,2.59871
+"East Asia and Pacific",2011,15,19,"F","Lower",31979,2.0234
+"East Asia and Pacific",2011,15,19,"F","Point",35352,2.23681
+"East Asia and Pacific",2011,15,19,"F","Upper",40548,2.56485
+"East Asia and Pacific",2012,15,19,"F","Lower",30047,1.93769
+"East Asia and Pacific",2012,15,19,"F","Point",33560,2.16397
+"East Asia and Pacific",2012,15,19,"F","Upper",38960,2.51166
+"East Asia and Pacific",2013,15,19,"F","Lower",28433,1.85405
+"East Asia and Pacific",2013,15,19,"F","Point",32141,2.09548
+"East Asia and Pacific",2013,15,19,"F","Upper",37459,2.44183
+"East Asia and Pacific",2014,15,19,"F","Lower",27038,1.77903
+"East Asia and Pacific",2014,15,19,"F","Point",30931,2.03494
+"East Asia and Pacific",2014,15,19,"F","Upper",36226,2.38283
+"East Asia and Pacific",2015,15,19,"F","Lower",25680,1.70823
+"East Asia and Pacific",2015,15,19,"F","Point",29814,1.98314
+"East Asia and Pacific",2015,15,19,"F","Upper",35166,2.33847
+"East Asia and Pacific",2016,15,19,"F","Lower",24442,1.64579
+"East Asia and Pacific",2016,15,19,"F","Point",28776,1.93731
+"East Asia and Pacific",2016,15,19,"F","Upper",34308,2.30928
+"East Asia and Pacific",2017,15,19,"F","Lower",23381,1.59328
+"East Asia and Pacific",2017,15,19,"F","Point",27768,1.89185
+"East Asia and Pacific",2017,15,19,"F","Upper",33276,2.26678
+"East Asia and Pacific",2018,15,19,"F","Lower",22167,1.52737
+"East Asia and Pacific",2018,15,19,"F","Point",26840,1.84897
+"East Asia and Pacific",2018,15,19,"F","Upper",32326,2.2265
+"East Asia and Pacific",2019,15,19,"F","Lower",21200,1.47386
+"East Asia and Pacific",2019,15,19,"F","Point",25911,1.80108
+"East Asia and Pacific",2019,15,19,"F","Upper",31559,2.19316
+"Eastern and Southern Africa",2000,15,19,"F","Lower",54543,13.93754
+"Eastern and Southern Africa",2000,15,19,"F","Point",58292,14.88597
+"Eastern and Southern Africa",2000,15,19,"F","Upper",63308,16.15911
+"Eastern and Southern Africa",2001,15,19,"F","Lower",52993,13.20619
+"Eastern and Southern Africa",2001,15,19,"F","Point",56387,14.04569
+"Eastern and Southern Africa",2001,15,19,"F","Upper",61084,15.20676
+"Eastern and Southern Africa",2002,15,19,"F","Lower",51537,12.53131
+"Eastern and Southern Africa",2002,15,19,"F","Point",54894,13.34154
+"Eastern and Southern Africa",2002,15,19,"F","Upper",59541,14.46326
+"Eastern and Southern Africa",2003,15,19,"F","Lower",50903,12.08121
+"Eastern and Southern Africa",2003,15,19,"F","Point",54258,12.87182
+"Eastern and Southern Africa",2003,15,19,"F","Upper",58789,13.93949
+"Eastern and Southern Africa",2004,15,19,"F","Lower",50253,11.64756
+"Eastern and Southern Africa",2004,15,19,"F","Point",53482,12.39099
+"Eastern and Southern Africa",2004,15,19,"F","Upper",57868,13.40053
+"Eastern and Southern Africa",2005,15,19,"F","Lower",48747,11.03877
+"Eastern and Southern Africa",2005,15,19,"F","Point",52047,11.78118
+"Eastern and Southern Africa",2005,15,19,"F","Upper",56426,12.76642
+"Eastern and Southern Africa",2006,15,19,"F","Lower",47818,10.60633
+"Eastern and Southern Africa",2006,15,19,"F","Point",51044,11.31736
+"Eastern and Southern Africa",2006,15,19,"F","Upper",55367,12.27016
+"Eastern and Southern Africa",2007,15,19,"F","Lower",46868,10.18063
+"Eastern and Southern Africa",2007,15,19,"F","Point",50086,10.87512
+"Eastern and Southern Africa",2007,15,19,"F","Upper",54460,11.81957
+"Eastern and Southern Africa",2008,15,19,"F","Lower",45896,9.75428
+"Eastern and Southern Africa",2008,15,19,"F","Point",49283,10.47105
+"Eastern and Southern Africa",2008,15,19,"F","Upper",53861,11.43721
+"Eastern and Southern Africa",2009,15,19,"F","Lower",45219,9.38674
+"Eastern and Southern Africa",2009,15,19,"F","Point",48798,10.12583
+"Eastern and Southern Africa",2009,15,19,"F","Upper",53531,11.10238
+"Eastern and Southern Africa",2010,15,19,"F","Lower",44394,8.98824
+"Eastern and Southern Africa",2010,15,19,"F","Point",48155,9.74552
+"Eastern and Southern Africa",2010,15,19,"F","Upper",53080,10.73708
+"Eastern and Southern Africa",2011,15,19,"F","Lower",43777,8.65674
+"Eastern and Southern Africa",2011,15,19,"F","Point",47701,9.42921
+"Eastern and Southern Africa",2011,15,19,"F","Upper",52964,10.46367
+"Eastern and Southern Africa",2012,15,19,"F","Lower",43543,8.39505
+"Eastern and Southern Africa",2012,15,19,"F","Point",47608,9.17585
+"Eastern and Southern Africa",2012,15,19,"F","Upper",53213,10.24973
+"Eastern and Southern Africa",2013,15,19,"F","Lower",43320,8.13768
+"Eastern and Southern Africa",2013,15,19,"F","Point",47556,8.92952
+"Eastern and Southern Africa",2013,15,19,"F","Upper",53500,10.04009
+"Eastern and Southern Africa",2014,15,19,"F","Lower",43147,7.89502
+"Eastern and Southern Africa",2014,15,19,"F","Point",47577,8.70104
+"Eastern and Southern Africa",2014,15,19,"F","Upper",53726,9.82107
+"Eastern and Southern Africa",2015,15,19,"F","Lower",42748,7.62179
+"Eastern and Southern Africa",2015,15,19,"F","Point",47372,8.44217
+"Eastern and Southern Africa",2015,15,19,"F","Upper",53725,9.56942
+"Eastern and Southern Africa",2016,15,19,"F","Lower",42446,7.38393
+"Eastern and Southern Africa",2016,15,19,"F","Point",47231,8.21344
+"Eastern and Southern Africa",2016,15,19,"F","Upper",53654,9.32433
+"Eastern and Southern Africa",2017,15,19,"F","Lower",42228,7.1685
+"Eastern and Southern Africa",2017,15,19,"F","Point",47106,7.9927
+"Eastern and Southern Africa",2017,15,19,"F","Upper",53594,9.08908
+"Eastern and Southern Africa",2018,15,19,"F","Lower",41613,6.89376
+"Eastern and Southern Africa",2018,15,19,"F","Point",46648,7.72474
+"Eastern and Southern Africa",2018,15,19,"F","Upper",53140,8.79477
+"Eastern and Southern Africa",2019,15,19,"F","Lower",41172,6.65638
+"Eastern and Southern Africa",2019,15,19,"F","Point",46396,7.49778
+"Eastern and Southern Africa",2019,15,19,"F","Upper",53029,8.56504
+"Eastern Europe and central Asia",2000,15,19,"F","Lower",10578,3.08869
+"Eastern Europe and central Asia",2000,15,19,"F","Point",11255,3.28608
+"Eastern Europe and central Asia",2000,15,19,"F","Upper",11957,3.49022
+"Eastern Europe and central Asia",2001,15,19,"F","Lower",10381,3.00017
+"Eastern Europe and central Asia",2001,15,19,"F","Point",10952,3.16469
+"Eastern Europe and central Asia",2001,15,19,"F","Upper",11541,3.3346
+"Eastern Europe and central Asia",2002,15,19,"F","Lower",9961,2.84748
+"Eastern Europe and central Asia",2002,15,19,"F","Point",10433,2.98232
+"Eastern Europe and central Asia",2002,15,19,"F","Upper",10910,3.11806
+"Eastern Europe and central Asia",2003,15,19,"F","Lower",9590,2.71983
+"Eastern Europe and central Asia",2003,15,19,"F","Point",9973,2.82804
+"Eastern Europe and central Asia",2003,15,19,"F","Upper",10359,2.93736
+"Eastern Europe and central Asia",2004,15,19,"F","Lower",9364,2.65615
+"Eastern Europe and central Asia",2004,15,19,"F","Point",9663,2.74047
+"Eastern Europe and central Asia",2004,15,19,"F","Upper",9959,2.82438
+"Eastern Europe and central Asia",2005,15,19,"F","Lower",9124,2.61681
+"Eastern Europe and central Asia",2005,15,19,"F","Point",9361,2.6838
+"Eastern Europe and central Asia",2005,15,19,"F","Upper",9592,2.75052
+"Eastern Europe and central Asia",2006,15,19,"F","Lower",8788,2.57105
+"Eastern Europe and central Asia",2006,15,19,"F","Point",8957,2.62066
+"Eastern Europe and central Asia",2006,15,19,"F","Upper",9135,2.67208
+"Eastern Europe and central Asia",2007,15,19,"F","Lower",8276,2.4962
+"Eastern Europe and central Asia",2007,15,19,"F","Point",8411,2.53556
+"Eastern Europe and central Asia",2007,15,19,"F","Upper",8544,2.57677
+"Eastern Europe and central Asia",2008,15,19,"F","Lower",7673,2.40503
+"Eastern Europe and central Asia",2008,15,19,"F","Point",7778,2.43834
+"Eastern Europe and central Asia",2008,15,19,"F","Upper",7895,2.47431
+"Eastern Europe and central Asia",2009,15,19,"F","Lower",7038,2.29652
+"Eastern Europe and central Asia",2009,15,19,"F","Point",7122,2.32315
+"Eastern Europe and central Asia",2009,15,19,"F","Upper",7212,2.35292
+"Eastern Europe and central Asia",2010,15,19,"F","Lower",6514,2.20782
+"Eastern Europe and central Asia",2010,15,19,"F","Point",6587,2.23208
+"Eastern Europe and central Asia",2010,15,19,"F","Upper",6661,2.25736
+"Eastern Europe and central Asia",2011,15,19,"F","Lower",6085,2.14714
+"Eastern Europe and central Asia",2011,15,19,"F","Point",6150,2.17169
+"Eastern Europe and central Asia",2011,15,19,"F","Upper",6222,2.19518
+"Eastern Europe and central Asia",2012,15,19,"F","Lower",5752,2.10593
+"Eastern Europe and central Asia",2012,15,19,"F","Point",5822,2.1296
+"Eastern Europe and central Asia",2012,15,19,"F","Upper",5891,2.15617
+"Eastern Europe and central Asia",2013,15,19,"F","Lower",5467,2.06669
+"Eastern Europe and central Asia",2013,15,19,"F","Point",5534,2.09288
+"Eastern Europe and central Asia",2013,15,19,"F","Upper",5609,2.12015
+"Eastern Europe and central Asia",2014,15,19,"F","Lower",5282,2.05232
+"Eastern Europe and central Asia",2014,15,19,"F","Point",5349,2.07817
+"Eastern Europe and central Asia",2014,15,19,"F","Upper",5424,2.10688
+"Eastern Europe and central Asia",2015,15,19,"F","Lower",4997,1.98417
+"Eastern Europe and central Asia",2015,15,19,"F","Point",5061,2.0099
+"Eastern Europe and central Asia",2015,15,19,"F","Upper",5138,2.03987
+"Eastern Europe and central Asia",2016,15,19,"F","Lower",4853,1.9585
+"Eastern Europe and central Asia",2016,15,19,"F","Point",4929,1.9875
+"Eastern Europe and central Asia",2016,15,19,"F","Upper",5007,2.02018
+"Eastern Europe and central Asia",2017,15,19,"F","Lower",4563,1.8585
+"Eastern Europe and central Asia",2017,15,19,"F","Point",4645,1.89143
+"Eastern Europe and central Asia",2017,15,19,"F","Upper",4731,1.92642
+"Eastern Europe and central Asia",2018,15,19,"F","Lower",4391,1.79151
+"Eastern Europe and central Asia",2018,15,19,"F","Point",4490,1.83213
+"Eastern Europe and central Asia",2018,15,19,"F","Upper",4589,1.87186
+"Eastern Europe and central Asia",2019,15,19,"F","Lower",4254,1.72663
+"Eastern Europe and central Asia",2019,15,19,"F","Point",4374,1.77643
+"Eastern Europe and central Asia",2019,15,19,"F","Upper",4502,1.82658
+"Latin America and Caribbean",2000,15,19,"F","Lower",15284,2.95817
+"Latin America and Caribbean",2000,15,19,"F","Point",15684,3.03476
+"Latin America and Caribbean",2000,15,19,"F","Upper",16202,3.1353
+"Latin America and Caribbean",2001,15,19,"F","Lower",15118,2.90562
+"Latin America and Caribbean",2001,15,19,"F","Point",15521,2.98292
+"Latin America and Caribbean",2001,15,19,"F","Upper",16036,3.08153
+"Latin America and Caribbean",2002,15,19,"F","Lower",14903,2.84938
+"Latin America and Caribbean",2002,15,19,"F","Point",15308,2.92652
+"Latin America and Caribbean",2002,15,19,"F","Upper",15798,3.02019
+"Latin America and Caribbean",2003,15,19,"F","Lower",14615,2.7844
+"Latin America and Caribbean",2003,15,19,"F","Point",15017,2.86061
+"Latin America and Caribbean",2003,15,19,"F","Upper",15499,2.95237
+"Latin America and Caribbean",2004,15,19,"F","Lower",14456,2.74533
+"Latin America and Caribbean",2004,15,19,"F","Point",14878,2.82534
+"Latin America and Caribbean",2004,15,19,"F","Upper",15412,2.92653
+"Latin America and Caribbean",2005,15,19,"F","Lower",14026,2.65507
+"Latin America and Caribbean",2005,15,19,"F","Point",14429,2.73127
+"Latin America and Caribbean",2005,15,19,"F","Upper",14942,2.82804
+"Latin America and Caribbean",2006,15,19,"F","Lower",13916,2.62344
+"Latin America and Caribbean",2006,15,19,"F","Point",14315,2.698
+"Latin America and Caribbean",2006,15,19,"F","Upper",14810,2.79163
+"Latin America and Caribbean",2007,15,19,"F","Lower",13948,2.61869
+"Latin America and Caribbean",2007,15,19,"F","Point",14358,2.69474
+"Latin America and Caribbean",2007,15,19,"F","Upper",14883,2.79378
+"Latin America and Caribbean",2008,15,19,"F","Lower",14107,2.6363
+"Latin America and Caribbean",2008,15,19,"F","Point",14532,2.71579
+"Latin America and Caribbean",2008,15,19,"F","Upper",15069,2.81575
+"Latin America and Caribbean",2009,15,19,"F","Lower",14313,2.66412
+"Latin America and Caribbean",2009,15,19,"F","Point",14744,2.74341
+"Latin America and Caribbean",2009,15,19,"F","Upper",15287,2.84499
+"Latin America and Caribbean",2010,15,19,"F","Lower",19550,3.62502
+"Latin America and Caribbean",2010,15,19,"F","Point",21926,4.0644
+"Latin America and Caribbean",2010,15,19,"F","Upper",25566,4.73763
+"Latin America and Caribbean",2011,15,19,"F","Lower",14415,2.66766
+"Latin America and Caribbean",2011,15,19,"F","Point",14859,2.74903
+"Latin America and Caribbean",2011,15,19,"F","Upper",15437,2.85638
+"Latin America and Caribbean",2012,15,19,"F","Lower",14266,2.6375
+"Latin America and Caribbean",2012,15,19,"F","Point",14718,2.72108
+"Latin America and Caribbean",2012,15,19,"F","Upper",15320,2.83184
+"Latin America and Caribbean",2013,15,19,"F","Lower",14036,2.5947
+"Latin America and Caribbean",2013,15,19,"F","Point",14508,2.68218
+"Latin America and Caribbean",2013,15,19,"F","Upper",15142,2.79874
+"Latin America and Caribbean",2014,15,19,"F","Lower",13802,2.55466
+"Latin America and Caribbean",2014,15,19,"F","Point",14290,2.6449
+"Latin America and Caribbean",2014,15,19,"F","Upper",14927,2.76249
+"Latin America and Caribbean",2015,15,19,"F","Lower",13645,2.53126
+"Latin America and Caribbean",2015,15,19,"F","Point",14121,2.61989
+"Latin America and Caribbean",2015,15,19,"F","Upper",14764,2.73824
+"Latin America and Caribbean",2016,15,19,"F","Lower",13503,2.51294
+"Latin America and Caribbean",2016,15,19,"F","Point",13987,2.60289
+"Latin America and Caribbean",2016,15,19,"F","Upper",14645,2.72505
+"Latin America and Caribbean",2017,15,19,"F","Lower",13352,2.49504
+"Latin America and Caribbean",2017,15,19,"F","Point",13853,2.58829
+"Latin America and Caribbean",2017,15,19,"F","Upper",14540,2.71659
+"Latin America and Caribbean",2018,15,19,"F","Lower",13137,2.46865
+"Latin America and Caribbean",2018,15,19,"F","Point",13672,2.56853
+"Latin America and Caribbean",2018,15,19,"F","Upper",14379,2.70154
+"Latin America and Caribbean",2019,15,19,"F","Lower",12827,2.42661
+"Latin America and Caribbean",2019,15,19,"F","Point",13427,2.53997
+"Latin America and Caribbean",2019,15,19,"F","Upper",14185,2.68292
+"Middle East and North Africa",2000,15,19,"F","Lower",11732,3.30294
+"Middle East and North Africa",2000,15,19,"F","Point",12560,3.53531
+"Middle East and North Africa",2000,15,19,"F","Upper",13567,3.81833
+"Middle East and North Africa",2001,15,19,"F","Lower",11738,3.23143
+"Middle East and North Africa",2001,15,19,"F","Point",12500,3.44122
+"Middle East and North Africa",2001,15,19,"F","Upper",13440,3.69898
+"Middle East and North Africa",2002,15,19,"F","Lower",11763,3.17815
+"Middle East and North Africa",2002,15,19,"F","Point",12491,3.37347
+"Middle East and North Africa",2002,15,19,"F","Upper",13350,3.60575
+"Middle East and North Africa",2003,15,19,"F","Lower",14102,3.75485
+"Middle East and North Africa",2003,15,19,"F","Point",15071,4.01192
+"Middle East and North Africa",2003,15,19,"F","Upper",16242,4.32299
+"Middle East and North Africa",2004,15,19,"F","Lower",12877,3.39657
+"Middle East and North Africa",2004,15,19,"F","Point",13718,3.61787
+"Middle East and North Africa",2004,15,19,"F","Upper",14775,3.89601
+"Middle East and North Africa",2005,15,19,"F","Lower",12867,3.37584
+"Middle East and North Africa",2005,15,19,"F","Point",13691,3.59128
+"Middle East and North Africa",2005,15,19,"F","Upper",14803,3.88234
+"Middle East and North Africa",2006,15,19,"F","Lower",13326,3.48955
+"Middle East and North Africa",2006,15,19,"F","Point",14356,3.75865
+"Middle East and North Africa",2006,15,19,"F","Upper",15736,4.11901
+"Middle East and North Africa",2007,15,19,"F","Lower",12539,3.29106
+"Middle East and North Africa",2007,15,19,"F","Point",13451,3.53095
+"Middle East and North Africa",2007,15,19,"F","Upper",14691,3.8547
+"Middle East and North Africa",2008,15,19,"F","Lower",11141,2.94227
+"Middle East and North Africa",2008,15,19,"F","Point",11831,3.12414
+"Middle East and North Africa",2008,15,19,"F","Upper",12728,3.36039
+"Middle East and North Africa",2009,15,19,"F","Lower",10509,2.7981
+"Middle East and North Africa",2009,15,19,"F","Point",11155,2.97002
+"Middle East and North Africa",2009,15,19,"F","Upper",12017,3.19873
+"Middle East and North Africa",2010,15,19,"F","Lower",10085,2.71017
+"Middle East and North Africa",2010,15,19,"F","Point",10751,2.88852
+"Middle East and North Africa",2010,15,19,"F","Upper",11577,3.11017
+"Middle East and North Africa",2011,15,19,"F","Lower",10119,2.74765
+"Middle East and North Africa",2011,15,19,"F","Point",10796,2.93019
+"Middle East and North Africa",2011,15,19,"F","Upper",11647,3.1617
+"Middle East and North Africa",2012,15,19,"F","Lower",10488,2.88116
+"Middle East and North Africa",2012,15,19,"F","Point",11230,3.08338
+"Middle East and North Africa",2012,15,19,"F","Upper",12144,3.33496
+"Middle East and North Africa",2013,15,19,"F","Lower",10606,2.9485
+"Middle East and North Africa",2013,15,19,"F","Point",11384,3.1638
+"Middle East and North Africa",2013,15,19,"F","Upper",12365,3.43631
+"Middle East and North Africa",2014,15,19,"F","Lower",11531,3.2403
+"Middle East and North Africa",2014,15,19,"F","Point",12533,3.52171
+"Middle East and North Africa",2014,15,19,"F","Upper",13823,3.88279
+"Middle East and North Africa",2015,15,19,"F","Lower",11305,3.20566
+"Middle East and North Africa",2015,15,19,"F","Point",12346,3.49949
+"Middle East and North Africa",2015,15,19,"F","Upper",13677,3.87682
+"Middle East and North Africa",2016,15,19,"F","Lower",11267,3.21059
+"Middle East and North Africa",2016,15,19,"F","Point",12352,3.51956
+"Middle East and North Africa",2016,15,19,"F","Upper",13713,3.90579
+"Middle East and North Africa",2017,15,19,"F","Lower",10715,3.05878
+"Middle East and North Africa",2017,15,19,"F","Point",11676,3.33194
+"Middle East and North Africa",2017,15,19,"F","Upper",12885,3.67686
+"Middle East and North Africa",2018,15,19,"F","Lower",10180,2.90184
+"Middle East and North Africa",2018,15,19,"F","Point",11100,3.16188
+"Middle East and North Africa",2018,15,19,"F","Upper",12259,3.49309
+"Middle East and North Africa",2019,15,19,"F","Lower",10046,2.84728
+"Middle East and North Africa",2019,15,19,"F","Point",10957,3.105
+"Middle East and North Africa",2019,15,19,"F","Upper",12083,3.42336
+"North America",2000,15,19,"F","Lower",4119,1.91856
+"North America",2000,15,19,"F","Point",4192,1.95229
+"North America",2000,15,19,"F","Upper",4265,1.9863
+"North America",2001,15,19,"F","Lower",4161,1.90308
+"North America",2001,15,19,"F","Point",4233,1.9358
+"North America",2001,15,19,"F","Upper",4306,1.96904
+"North America",2002,15,19,"F","Lower",4200,1.89158
+"North America",2002,15,19,"F","Point",4273,1.92405
+"North America",2002,15,19,"F","Upper",4346,1.95655
+"North America",2003,15,19,"F","Lower",4231,1.87971
+"North America",2003,15,19,"F","Point",4306,1.91245
+"North America",2003,15,19,"F","Upper",4382,1.94628
+"North America",2004,15,19,"F","Lower",4249,1.86398
+"North America",2004,15,19,"F","Point",4323,1.89628
+"North America",2004,15,19,"F","Upper",4407,1.93299
+"North America",2005,15,19,"F","Lower",4232,1.83409
+"North America",2005,15,19,"F","Point",4305,1.8652
+"North America",2005,15,19,"F","Upper",4391,1.90255
+"North America",2006,15,19,"F","Lower",4136,1.77734
+"North America",2006,15,19,"F","Point",4210,1.80878
+"North America",2006,15,19,"F","Upper",4293,1.8445
+"North America",2007,15,19,"F","Lower",3982,1.69552
+"North America",2007,15,19,"F","Point",4052,1.7256
+"North America",2007,15,19,"F","Upper",4125,1.75616
+"North America",2008,15,19,"F","Lower",3788,1.60026
+"North America",2008,15,19,"F","Point",3858,1.62911
+"North America",2008,15,19,"F","Upper",3921,1.65564
+"North America",2009,15,19,"F","Lower",3580,1.50525
+"North America",2009,15,19,"F","Point",3648,1.53367
+"North America",2009,15,19,"F","Upper",3707,1.55853
+"North America",2010,15,19,"F","Lower",3381,1.42118
+"North America",2010,15,19,"F","Point",3449,1.44981
+"North America",2010,15,19,"F","Upper",3508,1.47406
+"North America",2011,15,19,"F","Lower",3233,1.35655
+"North America",2011,15,19,"F","Point",3302,1.38519
+"North America",2011,15,19,"F","Upper",3363,1.41041
+"North America",2012,15,19,"F","Lower",3128,1.3181
+"North America",2012,15,19,"F","Point",3194,1.34563
+"North America",2012,15,19,"F","Upper",3254,1.37066
+"North America",2013,15,19,"F","Lower",3074,1.3067
+"North America",2013,15,19,"F","Point",3135,1.33257
+"North America",2013,15,19,"F","Upper",3192,1.35657
+"North America",2014,15,19,"F","Lower",3081,1.32376
+"North America",2014,15,19,"F","Point",3139,1.34861
+"North America",2014,15,19,"F","Upper",3196,1.37304
+"North America",2015,15,19,"F","Lower",3135,1.36105
+"North America",2015,15,19,"F","Point",3199,1.38807
+"North America",2015,15,19,"F","Upper",3261,1.4153
+"North America",2016,15,19,"F","Lower",3232,1.40792
+"North America",2016,15,19,"F","Point",3309,1.44132
+"North America",2016,15,19,"F","Upper",3393,1.47768
+"North America",2017,15,19,"F","Lower",3317,1.4493
+"North America",2017,15,19,"F","Point",3424,1.49603
+"North America",2017,15,19,"F","Upper",3546,1.54891
+"North America",2018,15,19,"F","Lower",3360,1.47127
+"North America",2018,15,19,"F","Point",3517,1.53976
+"North America",2018,15,19,"F","Upper",3694,1.61718
+"North America",2019,15,19,"F","Lower",3300,1.44756
+"North America",2019,15,19,"F","Point",3555,1.55943
+"North America",2019,15,19,"F","Upper",3827,1.67806
+"South Asia",2000,15,19,"F","Lower",120071,8.6035
+"South Asia",2000,15,19,"F","Point",125599,8.99767
+"South Asia",2000,15,19,"F","Upper",132695,9.50369
+"South Asia",2001,15,19,"F","Lower",118567,8.35015
+"South Asia",2001,15,19,"F","Point",124070,8.73603
+"South Asia",2001,15,19,"F","Upper",130816,9.20878
+"South Asia",2002,15,19,"F","Lower",117448,8.14214
+"South Asia",2002,15,19,"F","Point",122979,8.52407
+"South Asia",2002,15,19,"F","Upper",129275,8.95828
+"South Asia",2003,15,19,"F","Lower",115451,7.89038
+"South Asia",2003,15,19,"F","Point",121165,8.27957
+"South Asia",2003,15,19,"F","Upper",127260,8.69383
+"South Asia",2004,15,19,"F","Lower",115802,7.8133
+"South Asia",2004,15,19,"F","Point",121447,8.19251
+"South Asia",2004,15,19,"F","Upper",127391,8.59179
+"South Asia",2005,15,19,"F","Lower",113252,7.5553
+"South Asia",2005,15,19,"F","Point",118738,7.91953
+"South Asia",2005,15,19,"F","Upper",124351,8.2926
+"South Asia",2006,15,19,"F","Lower",112102,7.41396
+"South Asia",2006,15,19,"F","Point",117252,7.7531
+"South Asia",2006,15,19,"F","Upper",123044,8.13465
+"South Asia",2007,15,19,"F","Lower",109941,7.21907
+"South Asia",2007,15,19,"F","Point",115480,7.58118
+"South Asia",2007,15,19,"F","Upper",121324,7.96344
+"South Asia",2008,15,19,"F","Lower",107518,7.01507
+"South Asia",2008,15,19,"F","Point",113499,7.40398
+"South Asia",2008,15,19,"F","Upper",120148,7.83585
+"South Asia",2009,15,19,"F","Lower",104050,6.74412
+"South Asia",2009,15,19,"F","Point",110296,7.14748
+"South Asia",2009,15,19,"F","Upper",118028,7.64659
+"South Asia",2010,15,19,"F","Lower",99213,6.38393
+"South Asia",2010,15,19,"F","Point",105707,6.80033
+"South Asia",2010,15,19,"F","Upper",113797,7.31884
+"South Asia",2011,15,19,"F","Lower",94811,6.05625
+"South Asia",2011,15,19,"F","Point",101588,6.48767
+"South Asia",2011,15,19,"F","Upper",109933,7.01877
+"South Asia",2012,15,19,"F","Lower",90615,5.74149
+"South Asia",2012,15,19,"F","Point",97563,6.1802
+"South Asia",2012,15,19,"F","Upper",106252,6.72887
+"South Asia",2013,15,19,"F","Lower",86370,5.42678
+"South Asia",2013,15,19,"F","Point",93932,5.90047
+"South Asia",2013,15,19,"F","Upper",102889,6.46125
+"South Asia",2014,15,19,"F","Lower",82734,5.15784
+"South Asia",2014,15,19,"F","Point",90621,5.64808
+"South Asia",2014,15,19,"F","Upper",99976,6.22936
+"South Asia",2015,15,19,"F","Lower",79431,4.91901
+"South Asia",2015,15,19,"F","Point",87901,5.44214
+"South Asia",2015,15,19,"F","Upper",97864,6.05699
+"South Asia",2016,15,19,"F","Lower",75781,4.66588
+"South Asia",2016,15,19,"F","Point",84719,5.21468
+"South Asia",2016,15,19,"F","Upper",95204,5.85817
+"South Asia",2017,15,19,"F","Lower",72351,4.43576
+"South Asia",2017,15,19,"F","Point",82149,5.0349
+"South Asia",2017,15,19,"F","Upper",93431,5.72439
+"South Asia",2018,15,19,"F","Lower",68287,4.17257
+"South Asia",2018,15,19,"F","Point",79481,4.85496
+"South Asia",2018,15,19,"F","Upper",91616,5.59407
+"South Asia",2019,15,19,"F","Lower",65273,3.97521
+"South Asia",2019,15,19,"F","Point",77104,4.69388
+"South Asia",2019,15,19,"F","Upper",90050,5.47996
+"West and central Africa",2000,15,19,"F","Lower",42134,12.44497
+"West and central Africa",2000,15,19,"F","Point",46673,13.77661
+"West and central Africa",2000,15,19,"F","Upper",52161,15.38343
+"West and central Africa",2001,15,19,"F","Lower",42626,12.29998
+"West and central Africa",2001,15,19,"F","Point",47167,13.60052
+"West and central Africa",2001,15,19,"F","Upper",52583,15.15105
+"West and central Africa",2002,15,19,"F","Lower",43388,12.22364
+"West and central Africa",2002,15,19,"F","Point",47778,13.45134
+"West and central Africa",2002,15,19,"F","Upper",53055,14.9263
+"West and central Africa",2003,15,19,"F","Lower",44076,12.11916
+"West and central Africa",2003,15,19,"F","Point",48423,13.30558
+"West and central Africa",2003,15,19,"F","Upper",53606,14.71998
+"West and central Africa",2004,15,19,"F","Lower",44242,11.86946
+"West and central Africa",2004,15,19,"F","Point",48665,13.04729
+"West and central Africa",2004,15,19,"F","Upper",53840,14.42533
+"West and central Africa",2005,15,19,"F","Lower",44751,11.7065
+"West and central Africa",2005,15,19,"F","Point",49300,12.88815
+"West and central Africa",2005,15,19,"F","Upper",54583,14.25993
+"West and central Africa",2006,15,19,"F","Lower",45441,11.6232
+"West and central Africa",2006,15,19,"F","Point",50018,12.78732
+"West and central Africa",2006,15,19,"F","Upper",55389,14.14938
+"West and central Africa",2007,15,19,"F","Lower",45779,11.43431
+"West and central Africa",2007,15,19,"F","Point",50429,12.58878
+"West and central Africa",2007,15,19,"F","Upper",56017,13.97323
+"West and central Africa",2008,15,19,"F","Lower",46388,11.30408
+"West and central Africa",2008,15,19,"F","Point",51148,12.45744
+"West and central Africa",2008,15,19,"F","Upper",57155,13.90936
+"West and central Africa",2009,15,19,"F","Lower",47131,11.18651
+"West and central Africa",2009,15,19,"F","Point",52004,12.336
+"West and central Africa",2009,15,19,"F","Upper",58572,13.88308
+"West and central Africa",2010,15,19,"F","Lower",47809,11.04464
+"West and central Africa",2010,15,19,"F","Point",52975,12.22945
+"West and central Africa",2010,15,19,"F","Upper",60293,13.90834
+"West and central Africa",2011,15,19,"F","Lower",48203,10.85721
+"West and central Africa",2011,15,19,"F","Point",53917,12.13689
+"West and central Africa",2011,15,19,"F","Upper",61673,13.86978
+"West and central Africa",2012,15,19,"F","Lower",48889,10.72268
+"West and central Africa",2012,15,19,"F","Point",54957,12.04553
+"West and central Africa",2012,15,19,"F","Upper",63150,13.82872
+"West and central Africa",2013,15,19,"F","Lower",49626,10.57844
+"West and central Africa",2013,15,19,"F","Point",56196,11.96951
+"West and central Africa",2013,15,19,"F","Upper",65048,13.84288
+"West and central Africa",2014,15,19,"F","Lower",50748,10.50206
+"West and central Africa",2014,15,19,"F","Point",57592,11.91047
+"West and central Africa",2014,15,19,"F","Upper",67230,13.88899
+"West and central Africa",2015,15,19,"F","Lower",50493,10.13213
+"West and central Africa",2015,15,19,"F","Point",57751,11.57845
+"West and central Africa",2015,15,19,"F","Upper",67841,13.58938
+"West and central Africa",2016,15,19,"F","Lower",50579,9.85219
+"West and central Africa",2016,15,19,"F","Point",58322,11.35128
+"West and central Africa",2016,15,19,"F","Upper",68871,13.3912
+"West and central Africa",2017,15,19,"F","Lower",50732,9.58172
+"West and central Africa",2017,15,19,"F","Point",58936,11.12272
+"West and central Africa",2017,15,19,"F","Upper",69932,13.18384
+"West and central Africa",2018,15,19,"F","Lower",50586,9.25629
+"West and central Africa",2018,15,19,"F","Point",59316,10.84546
+"West and central Africa",2018,15,19,"F","Upper",71413,13.04235
+"West and central Africa",2019,15,19,"F","Lower",50365,8.92688
+"West and central Africa",2019,15,19,"F","Point",59584,10.55219
+"West and central Africa",2019,15,19,"F","Upper",72000,12.73704
+"Western Europe",2000,15,19,"F","Lower",3915,1.36134
+"Western Europe",2000,15,19,"F","Point",3941,1.37069
+"Western Europe",2000,15,19,"F","Upper",3971,1.38047
+"Western Europe",2001,15,19,"F","Lower",3798,1.32156
+"Western Europe",2001,15,19,"F","Point",3825,1.33108
+"Western Europe",2001,15,19,"F","Upper",3854,1.34084
+"Western Europe",2002,15,19,"F","Lower",3655,1.27471
+"Western Europe",2002,15,19,"F","Point",3683,1.28393
+"Western Europe",2002,15,19,"F","Upper",3709,1.29292
+"Western Europe",2003,15,19,"F","Lower",3495,1.2241
+"Western Europe",2003,15,19,"F","Point",3522,1.23319
+"Western Europe",2003,15,19,"F","Upper",3546,1.2414
+"Western Europe",2004,15,19,"F","Lower",3334,1.17502
+"Western Europe",2004,15,19,"F","Point",3358,1.18393
+"Western Europe",2004,15,19,"F","Upper",3383,1.19205
+"Western Europe",2005,15,19,"F","Lower",3184,1.13136
+"Western Europe",2005,15,19,"F","Point",3209,1.13998
+"Western Europe",2005,15,19,"F","Upper",3232,1.14805
+"Western Europe",2006,15,19,"F","Lower",3065,1.09346
+"Western Europe",2006,15,19,"F","Point",3089,1.10144
+"Western Europe",2006,15,19,"F","Upper",3112,1.10987
+"Western Europe",2007,15,19,"F","Lower",2952,1.05959
+"Western Europe",2007,15,19,"F","Point",2972,1.06718
+"Western Europe",2007,15,19,"F","Upper",2999,1.07586
+"Western Europe",2008,15,19,"F","Lower",2837,1.02659
+"Western Europe",2008,15,19,"F","Point",2858,1.0337
+"Western Europe",2008,15,19,"F","Upper",2881,1.04209
+"Western Europe",2009,15,19,"F","Lower",2707,0.9901
+"Western Europe",2009,15,19,"F","Point",2727,0.99758
+"Western Europe",2009,15,19,"F","Upper",2750,1.00532
+"Western Europe",2010,15,19,"F","Lower",2565,0.94989
+"Western Europe",2010,15,19,"F","Point",2588,0.95783
+"Western Europe",2010,15,19,"F","Upper",2606,0.96459
+"Western Europe",2011,15,19,"F","Lower",2424,0.90744
+"Western Europe",2011,15,19,"F","Point",2442,0.91487
+"Western Europe",2011,15,19,"F","Upper",2464,0.92189
+"Western Europe",2012,15,19,"F","Lower",2289,0.86678
+"Western Europe",2012,15,19,"F","Point",2307,0.87427
+"Western Europe",2012,15,19,"F","Upper",2328,0.88138
+"Western Europe",2013,15,19,"F","Lower",2165,0.83028
+"Western Europe",2013,15,19,"F","Point",2185,0.8379
+"Western Europe",2013,15,19,"F","Upper",2205,0.84508
+"Western Europe",2014,15,19,"F","Lower",2058,0.79929
+"Western Europe",2014,15,19,"F","Point",2081,0.80732
+"Western Europe",2014,15,19,"F","Upper",2099,0.81471
+"Western Europe",2015,15,19,"F","Lower",1977,0.77692
+"Western Europe",2015,15,19,"F","Point",1996,0.78484
+"Western Europe",2015,15,19,"F","Upper",2018,0.79244
+"Western Europe",2016,15,19,"F","Lower",1929,0.76324
+"Western Europe",2016,15,19,"F","Point",1949,0.77109
+"Western Europe",2016,15,19,"F","Upper",1971,0.77947
+"Western Europe",2017,15,19,"F","Lower",1903,0.75738
+"Western Europe",2017,15,19,"F","Point",1928,0.76662
+"Western Europe",2017,15,19,"F","Upper",1951,0.776
+"Western Europe",2018,15,19,"F","Lower",1892,0.75649
+"Western Europe",2018,15,19,"F","Point",1921,0.76713
+"Western Europe",2018,15,19,"F","Upper",1951,0.77969
+"Western Europe",2019,15,19,"F","Lower",1882,0.75381
+"Western Europe",2019,15,19,"F","Point",1917,0.76824
+"Western Europe",2019,15,19,"F","Upper",1961,0.78515
+"World",2000,15,19,"M","Lower",416713,7.17644
+"World",2000,15,19,"M","Point",426860,7.35049
+"World",2000,15,19,"M","Upper",441895,7.60845
+"World",2001,15,19,"M","Lower",413766,6.98083
+"World",2001,15,19,"M","Point",423178,7.13897
+"World",2001,15,19,"M","Upper",437566,7.38088
+"World",2002,15,19,"M","Lower",411169,6.7795
+"World",2002,15,19,"M","Point",420374,6.93062
+"World",2002,15,19,"M","Upper",434134,7.15678
+"World",2003,15,19,"M","Lower",413231,6.66152
+"World",2003,15,19,"M","Point",422676,6.81322
+"World",2003,15,19,"M","Upper",435957,7.02658
+"World",2004,15,19,"M","Lower",417919,6.61985
+"World",2004,15,19,"M","Point",427916,6.77767
+"World",2004,15,19,"M","Upper",442243,7.00379
+"World",2005,15,19,"M","Lower",404824,6.34874
+"World",2005,15,19,"M","Point",413651,6.48668
+"World",2005,15,19,"M","Upper",425877,6.6778
+"World",2006,15,19,"M","Lower",401723,6.28946
+"World",2006,15,19,"M","Point",410872,6.43222
+"World",2006,15,19,"M","Upper",423660,6.63177
+"World",2007,15,19,"M","Lower",394558,6.21167
+"World",2007,15,19,"M","Point",403975,6.35971
+"World",2007,15,19,"M","Upper",417809,6.57651
+"World",2008,15,19,"M","Lower",396760,6.30727
+"World",2008,15,19,"M","Point",406598,6.46321
+"World",2008,15,19,"M","Upper",421788,6.7038
+"World",2009,15,19,"M","Lower",378944,6.08068
+"World",2009,15,19,"M","Point",388945,6.24092
+"World",2009,15,19,"M","Upper",404110,6.48318
+"World",2010,15,19,"M","Lower",379201,6.12043
+"World",2010,15,19,"M","Point",390460,6.30167
+"World",2010,15,19,"M","Upper",407566,6.57673
+"World",2011,15,19,"M","Lower",364929,5.91139
+"World",2011,15,19,"M","Point",376613,6.10001
+"World",2011,15,19,"M","Upper",394087,6.3822
+"World",2012,15,19,"M","Lower",364632,5.91103
+"World",2012,15,19,"M","Point",377329,6.11646
+"World",2012,15,19,"M","Upper",395502,6.40984
+"World",2013,15,19,"M","Lower",363333,5.88149
+"World",2013,15,19,"M","Point",376492,6.09375
+"World",2013,15,19,"M","Upper",395170,6.3952
+"World",2014,15,19,"M","Lower",362941,5.8614
+"World",2014,15,19,"M","Point",377108,6.08954
+"World",2014,15,19,"M","Upper",397753,6.4218
+"World",2015,15,19,"M","Lower",355917,5.73455
+"World",2015,15,19,"M","Point",371088,5.97822
+"World",2015,15,19,"M","Upper",392193,6.31718
+"World",2016,15,19,"M","Lower",351629,5.65199
+"World",2016,15,19,"M","Point",367525,5.9068
+"World",2016,15,19,"M","Upper",389841,6.26427
+"World",2017,15,19,"M","Lower",345379,5.53571
+"World",2017,15,19,"M","Point",362686,5.81237
+"World",2017,15,19,"M","Upper",386316,6.18982
+"World",2018,15,19,"M","Lower",338420,5.40493
+"World",2018,15,19,"M","Point",356435,5.69166
+"World",2018,15,19,"M","Upper",381423,6.08963
+"World",2019,15,19,"M","Lower",331858,5.27549
+"World",2019,15,19,"M","Point",351881,5.59286
+"World",2019,15,19,"M","Upper",377736,6.00263
+"East Asia and Pacific",2000,15,19,"M","Lower",79830,4.49202
+"East Asia and Pacific",2000,15,19,"M","Point",86482,4.86532
+"East Asia and Pacific",2000,15,19,"M","Upper",95205,5.35479
+"East Asia and Pacific",2001,15,19,"M","Lower",79323,4.32958
+"East Asia and Pacific",2001,15,19,"M","Point",85628,4.67303
+"East Asia and Pacific",2001,15,19,"M","Upper",93794,5.11731
+"East Asia and Pacific",2002,15,19,"M","Lower",79673,4.17389
+"East Asia and Pacific",2002,15,19,"M","Point",85515,4.4791
+"East Asia and Pacific",2002,15,19,"M","Upper",93014,4.87107
+"East Asia and Pacific",2003,15,19,"M","Lower",79906,4.01316
+"East Asia and Pacific",2003,15,19,"M","Point",85474,4.29215
+"East Asia and Pacific",2003,15,19,"M","Upper",92767,4.65755
+"East Asia and Pacific",2004,15,19,"M","Lower",86352,4.20922
+"East Asia and Pacific",2004,15,19,"M","Point",92719,4.51887
+"East Asia and Pacific",2004,15,19,"M","Upper",100908,4.91696
+"East Asia and Pacific",2005,15,19,"M","Lower",77583,3.74394
+"East Asia and Pacific",2005,15,19,"M","Point",82464,3.97886
+"East Asia and Pacific",2005,15,19,"M","Upper",88929,4.29029
+"East Asia and Pacific",2006,15,19,"M","Lower",74379,3.62689
+"East Asia and Pacific",2006,15,19,"M","Point",79012,3.85236
+"East Asia and Pacific",2006,15,19,"M","Upper",85453,4.16576
+"East Asia and Pacific",2007,15,19,"M","Lower",70307,3.5353
+"East Asia and Pacific",2007,15,19,"M","Point",74774,3.75961
+"East Asia and Pacific",2007,15,19,"M","Upper",81244,4.08409
+"East Asia and Pacific",2008,15,19,"M","Lower",75656,3.97323
+"East Asia and Pacific",2008,15,19,"M","Point",81217,4.2646
+"East Asia and Pacific",2008,15,19,"M","Upper",89427,4.6947
+"East Asia and Pacific",2009,15,19,"M","Lower",61853,3.39388
+"East Asia and Pacific",2009,15,19,"M","Point",66513,3.64923
+"East Asia and Pacific",2009,15,19,"M","Upper",73477,4.03033
+"East Asia and Pacific",2010,15,19,"M","Lower",58031,3.29514
+"East Asia and Pacific",2010,15,19,"M","Point",63192,3.58763
+"East Asia and Pacific",2010,15,19,"M","Upper",70516,4.00262
+"East Asia and Pacific",2011,15,19,"M","Lower",55413,3.22565
+"East Asia and Pacific",2011,15,19,"M","Point",60638,3.52942
+"East Asia and Pacific",2011,15,19,"M","Upper",68420,3.98126
+"East Asia and Pacific",2012,15,19,"M","Lower",52743,3.11995
+"East Asia and Pacific",2012,15,19,"M","Point",58139,3.43872
+"East Asia and Pacific",2012,15,19,"M","Upper",66426,3.92774
+"East Asia and Pacific",2013,15,19,"M","Lower",50358,3.00622
+"East Asia and Pacific",2013,15,19,"M","Point",56187,3.35344
+"East Asia and Pacific",2013,15,19,"M","Upper",64561,3.85241
+"East Asia and Pacific",2014,15,19,"M","Lower",48382,2.90945
+"East Asia and Pacific",2014,15,19,"M","Point",54531,3.27862
+"East Asia and Pacific",2014,15,19,"M","Upper",63075,3.79123
+"East Asia and Pacific",2015,15,19,"M","Lower",46403,2.81512
+"East Asia and Pacific",2015,15,19,"M","Point",53043,3.21717
+"East Asia and Pacific",2015,15,19,"M","Upper",61707,3.74175
+"East Asia and Pacific",2016,15,19,"M","Lower",44557,2.73031
+"East Asia and Pacific",2016,15,19,"M","Point",51608,3.16153
+"East Asia and Pacific",2016,15,19,"M","Upper",60699,3.71752
+"East Asia and Pacific",2017,15,19,"M","Lower",42920,2.65548
+"East Asia and Pacific",2017,15,19,"M","Point",50160,3.10256
+"East Asia and Pacific",2017,15,19,"M","Upper",59426,3.67475
+"East Asia and Pacific",2018,15,19,"M","Lower",41174,2.56979
+"East Asia and Pacific",2018,15,19,"M","Point",48752,3.0419
+"East Asia and Pacific",2018,15,19,"M","Upper",57859,3.6092
+"East Asia and Pacific",2019,15,19,"M","Lower",39423,2.47686
+"East Asia and Pacific",2019,15,19,"M","Point",47296,2.97077
+"East Asia and Pacific",2019,15,19,"M","Upper",56650,3.55725
+"Eastern and Southern Africa",2000,15,19,"M","Lower",69271,17.70219
+"Eastern and Southern Africa",2000,15,19,"M","Point",73887,18.87017
+"Eastern and Southern Africa",2000,15,19,"M","Upper",79921,20.3957
+"Eastern and Southern Africa",2001,15,19,"M","Lower",67999,16.95283
+"Eastern and Southern Africa",2001,15,19,"M","Point",72206,17.99273
+"Eastern and Southern Africa",2001,15,19,"M","Upper",77871,19.38989
+"Eastern and Southern Africa",2002,15,19,"M","Lower",66850,16.26157
+"Eastern and Southern Africa",2002,15,19,"M","Point",70976,17.25675
+"Eastern and Southern Africa",2002,15,19,"M","Upper",76561,18.60153
+"Eastern and Southern Africa",2003,15,19,"M","Lower",66588,15.79826
+"Eastern and Southern Africa",2003,15,19,"M","Point",70841,16.79932
+"Eastern and Southern Africa",2003,15,19,"M","Upper",76459,18.11885
+"Eastern and Southern Africa",2004,15,19,"M","Lower",66403,15.37332
+"Eastern and Southern Africa",2004,15,19,"M","Point",70443,16.30162
+"Eastern and Southern Africa",2004,15,19,"M","Upper",76032,17.58281
+"Eastern and Southern Africa",2005,15,19,"M","Lower",64988,14.68805
+"Eastern and Southern Africa",2005,15,19,"M","Point",69184,15.62836
+"Eastern and Southern Africa",2005,15,19,"M","Upper",74657,16.85476
+"Eastern and Southern Africa",2006,15,19,"M","Lower",64197,14.22544
+"Eastern and Southern Africa",2006,15,19,"M","Point",68288,15.12565
+"Eastern and Southern Africa",2006,15,19,"M","Upper",73865,16.35004
+"Eastern and Southern Africa",2007,15,19,"M","Lower",63249,13.73152
+"Eastern and Southern Africa",2007,15,19,"M","Point",67436,14.63255
+"Eastern and Southern Africa",2007,15,19,"M","Upper",73226,15.88021
+"Eastern and Southern Africa",2008,15,19,"M","Lower",62290,13.23418
+"Eastern and Southern Africa",2008,15,19,"M","Point",66732,14.1704
+"Eastern and Southern Africa",2008,15,19,"M","Upper",72741,15.43717
+"Eastern and Southern Africa",2009,15,19,"M","Lower",61739,12.80561
+"Eastern and Southern Africa",2009,15,19,"M","Point",66424,13.77089
+"Eastern and Southern Africa",2009,15,19,"M","Upper",72840,15.09057
+"Eastern and Southern Africa",2010,15,19,"M","Lower",60839,12.2951
+"Eastern and Southern Africa",2010,15,19,"M","Point",65911,13.31265
+"Eastern and Southern Africa",2010,15,19,"M","Upper",72776,14.6895
+"Eastern and Southern Africa",2011,15,19,"M","Lower",60324,11.89688
+"Eastern and Southern Africa",2011,15,19,"M","Point",65609,12.93186
+"Eastern and Southern Africa",2011,15,19,"M","Upper",72838,14.34701
+"Eastern and Southern Africa",2012,15,19,"M","Lower",60150,11.55823
+"Eastern and Southern Africa",2012,15,19,"M","Point",65803,12.6373
+"Eastern and Southern Africa",2012,15,19,"M","Upper",73432,14.09223
+"Eastern and Southern Africa",2013,15,19,"M","Lower",60196,11.26067
+"Eastern and Southern Africa",2013,15,19,"M","Point",66153,12.36849
+"Eastern and Southern Africa",2013,15,19,"M","Upper",74352,13.89028
+"Eastern and Southern Africa",2014,15,19,"M","Lower",60581,11.02881
+"Eastern and Southern Africa",2014,15,19,"M","Point",66732,12.14206
+"Eastern and Southern Africa",2014,15,19,"M","Upper",75652,13.75349
+"Eastern and Southern Africa",2015,15,19,"M","Lower",60712,10.75839
+"Eastern and Southern Africa",2015,15,19,"M","Point",67171,11.89601
+"Eastern and Southern Africa",2015,15,19,"M","Upper",76176,13.48001
+"Eastern and Southern Africa",2016,15,19,"M","Lower",60856,10.51532
+"Eastern and Southern Africa",2016,15,19,"M","Point",67746,11.69992
+"Eastern and Southern Africa",2016,15,19,"M","Upper",77152,13.31219
+"Eastern and Southern Africa",2017,15,19,"M","Lower",61268,10.3206
+"Eastern and Southern Africa",2017,15,19,"M","Point",68383,11.51272
+"Eastern and Southern Africa",2017,15,19,"M","Upper",78246,13.16151
+"Eastern and Southern Africa",2018,15,19,"M","Lower",61101,10.03636
+"Eastern and Southern Africa",2018,15,19,"M","Point",68552,11.25325
+"Eastern and Southern Africa",2018,15,19,"M","Upper",78210,12.82846
+"Eastern and Southern Africa",2019,15,19,"M","Lower",61256,9.80887
+"Eastern and Southern Africa",2019,15,19,"M","Point",68913,11.02761
+"Eastern and Southern Africa",2019,15,19,"M","Upper",78964,12.62638
+"Eastern Europe and central Asia",2000,15,19,"M","Lower",25020,7.07695
+"Eastern Europe and central Asia",2000,15,19,"M","Point",26489,7.48984
+"Eastern Europe and central Asia",2000,15,19,"M","Upper",28002,7.91683
+"Eastern Europe and central Asia",2001,15,19,"M","Lower",24322,6.80166
+"Eastern Europe and central Asia",2001,15,19,"M","Point",25498,7.12871
+"Eastern Europe and central Asia",2001,15,19,"M","Upper",26705,7.46533
+"Eastern Europe and central Asia",2002,15,19,"M","Lower",23006,6.35951
+"Eastern Europe and central Asia",2002,15,19,"M","Point",23948,6.61836
+"Eastern Europe and central Asia",2002,15,19,"M","Upper",24891,6.87836
+"Eastern Europe and central Asia",2003,15,19,"M","Lower",21845,5.98797
+"Eastern Europe and central Asia",2003,15,19,"M","Point",22580,6.18882
+"Eastern Europe and central Asia",2003,15,19,"M","Upper",23320,6.39096
+"Eastern Europe and central Asia",2004,15,19,"M","Lower",21070,5.77411
+"Eastern Europe and central Asia",2004,15,19,"M","Point",21635,5.92772
+"Eastern Europe and central Asia",2004,15,19,"M","Upper",22204,6.08357
+"Eastern Europe and central Asia",2005,15,19,"M","Lower",20286,5.6169
+"Eastern Europe and central Asia",2005,15,19,"M","Point",20737,5.74133
+"Eastern Europe and central Asia",2005,15,19,"M","Upper",21175,5.86227
+"Eastern Europe and central Asia",2006,15,19,"M","Lower",19279,5.44241
+"Eastern Europe and central Asia",2006,15,19,"M","Point",19609,5.53616
+"Eastern Europe and central Asia",2006,15,19,"M","Upper",19949,5.63092
+"Eastern Europe and central Asia",2007,15,19,"M","Lower",17900,5.20367
+"Eastern Europe and central Asia",2007,15,19,"M","Point",18168,5.28145
+"Eastern Europe and central Asia",2007,15,19,"M","Upper",18457,5.36491
+"Eastern Europe and central Asia",2008,15,19,"M","Lower",16341,4.92696
+"Eastern Europe and central Asia",2008,15,19,"M","Point",16562,4.99231
+"Eastern Europe and central Asia",2008,15,19,"M","Upper",16795,5.06322
+"Eastern Europe and central Asia",2009,15,19,"M","Lower",14743,4.61622
+"Eastern Europe and central Asia",2009,15,19,"M","Point",14913,4.67022
+"Eastern Europe and central Asia",2009,15,19,"M","Upper",15101,4.72761
+"Eastern Europe and central Asia",2010,15,19,"M","Lower",13420,4.35309
+"Eastern Europe and central Asia",2010,15,19,"M","Point",13567,4.40125
+"Eastern Europe and central Asia",2010,15,19,"M","Upper",13722,4.45036
+"Eastern Europe and central Asia",2011,15,19,"M","Lower",12329,4.15771
+"Eastern Europe and central Asia",2011,15,19,"M","Point",12461,4.20175
+"Eastern Europe and central Asia",2011,15,19,"M","Upper",12594,4.24656
+"Eastern Europe and central Asia",2012,15,19,"M","Lower",11465,4.00805
+"Eastern Europe and central Asia",2012,15,19,"M","Point",11595,4.05332
+"Eastern Europe and central Asia",2012,15,19,"M","Upper",11726,4.0988
+"Eastern Europe and central Asia",2013,15,19,"M","Lower",10744,3.87541
+"Eastern Europe and central Asia",2013,15,19,"M","Point",10871,3.92003
+"Eastern Europe and central Asia",2013,15,19,"M","Upper",11003,3.96799
+"Eastern Europe and central Asia",2014,15,19,"M","Lower",10279,3.80676
+"Eastern Europe and central Asia",2014,15,19,"M","Point",10393,3.84929
+"Eastern Europe and central Asia",2014,15,19,"M","Upper",10520,3.89553
+"Eastern Europe and central Asia",2015,15,19,"M","Lower",9610,3.63484
+"Eastern Europe and central Asia",2015,15,19,"M","Point",9722,3.67585
+"Eastern Europe and central Asia",2015,15,19,"M","Upper",9840,3.72135
+"Eastern Europe and central Asia",2016,15,19,"M","Lower",9255,3.5562
+"Eastern Europe and central Asia",2016,15,19,"M","Point",9369,3.60064
+"Eastern Europe and central Asia",2016,15,19,"M","Upper",9489,3.64542
+"Eastern Europe and central Asia",2017,15,19,"M","Lower",8703,3.37076
+"Eastern Europe and central Asia",2017,15,19,"M","Point",8827,3.41771
+"Eastern Europe and central Asia",2017,15,19,"M","Upper",8957,3.46884
+"Eastern Europe and central Asia",2018,15,19,"M","Lower",8391,3.25112
+"Eastern Europe and central Asia",2018,15,19,"M","Point",8544,3.31004
+"Eastern Europe and central Asia",2018,15,19,"M","Upper",8699,3.36992
+"Eastern Europe and central Asia",2019,15,19,"M","Lower",8162,3.14384
+"Eastern Europe and central Asia",2019,15,19,"M","Point",8353,3.21709
+"Eastern Europe and central Asia",2019,15,19,"M","Upper",8550,3.29257
+"Latin America and Caribbean",2000,15,19,"M","Lower",40036,7.59824
+"Latin America and Caribbean",2000,15,19,"M","Point",40660,7.7163
+"Latin America and Caribbean",2000,15,19,"M","Upper",41510,7.87674
+"Latin America and Caribbean",2001,15,19,"M","Lower",40192,7.57426
+"Latin America and Caribbean",2001,15,19,"M","Point",40843,7.69656
+"Latin America and Caribbean",2001,15,19,"M","Upper",41685,7.85431
+"Latin America and Caribbean",2002,15,19,"M","Lower",40093,7.51872
+"Latin America and Caribbean",2002,15,19,"M","Point",40755,7.64225
+"Latin America and Caribbean",2002,15,19,"M","Upper",41566,7.79381
+"Latin America and Caribbean",2003,15,19,"M","Lower",39621,7.40688
+"Latin America and Caribbean",2003,15,19,"M","Point",40282,7.5305
+"Latin America and Caribbean",2003,15,19,"M","Upper",41116,7.68513
+"Latin America and Caribbean",2004,15,19,"M","Lower",39146,7.29221
+"Latin America and Caribbean",2004,15,19,"M","Point",39861,7.42501
+"Latin America and Caribbean",2004,15,19,"M","Upper",40776,7.59465
+"Latin America and Caribbean",2005,15,19,"M","Lower",38473,7.13591
+"Latin America and Caribbean",2005,15,19,"M","Point",39168,7.26422
+"Latin America and Caribbean",2005,15,19,"M","Upper",40072,7.43129
+"Latin America and Caribbean",2006,15,19,"M","Lower",38485,7.09472
+"Latin America and Caribbean",2006,15,19,"M","Point",39188,7.2239
+"Latin America and Caribbean",2006,15,19,"M","Upper",40119,7.39467
+"Latin America and Caribbean",2007,15,19,"M","Lower",38967,7.13066
+"Latin America and Caribbean",2007,15,19,"M","Point",39726,7.26961
+"Latin America and Caribbean",2007,15,19,"M","Upper",40683,7.44343
+"Latin America and Caribbean",2008,15,19,"M","Lower",39831,7.23014
+"Latin America and Caribbean",2008,15,19,"M","Point",40635,7.37572
+"Latin America and Caribbean",2008,15,19,"M","Upper",41609,7.55145
+"Latin America and Caribbean",2009,15,19,"M","Lower",40812,7.35162
+"Latin America and Caribbean",2009,15,19,"M","Point",41630,7.49758
+"Latin America and Caribbean",2009,15,19,"M","Upper",42625,7.67667
+"Latin America and Caribbean",2010,15,19,"M","Lower",48387,8.65729
+"Latin America and Caribbean",2010,15,19,"M","Point",51564,9.22288
+"Latin America and Caribbean",2010,15,19,"M","Upper",56426,10.08811
+"Latin America and Caribbean",2011,15,19,"M","Lower",41884,7.4799
+"Latin America and Caribbean",2011,15,19,"M","Point",42748,7.63312
+"Latin America and Caribbean",2011,15,19,"M","Upper",43862,7.83171
+"Latin America and Caribbean",2012,15,19,"M","Lower",41875,7.47343
+"Latin America and Caribbean",2012,15,19,"M","Point",42803,7.63871
+"Latin America and Caribbean",2012,15,19,"M","Upper",43975,7.84657
+"Latin America and Caribbean",2013,15,19,"M","Lower",41715,7.45257
+"Latin America and Caribbean",2013,15,19,"M","Point",42684,7.62519
+"Latin America and Caribbean",2013,15,19,"M","Upper",43931,7.84677
+"Latin America and Caribbean",2014,15,19,"M","Lower",41548,7.43359
+"Latin America and Caribbean",2014,15,19,"M","Point",42547,7.61122
+"Latin America and Caribbean",2014,15,19,"M","Upper",43862,7.84583
+"Latin America and Caribbean",2015,15,19,"M","Lower",41441,7.42708
+"Latin America and Caribbean",2015,15,19,"M","Point",42457,7.60705
+"Latin America and Caribbean",2015,15,19,"M","Upper",43812,7.85019
+"Latin America and Caribbean",2016,15,19,"M","Lower",41141,7.40883
+"Latin America and Caribbean",2016,15,19,"M","Point",42166,7.59228
+"Latin America and Caribbean",2016,15,19,"M","Upper",43546,7.84011
+"Latin America and Caribbean",2017,15,19,"M","Lower",40691,7.36467
+"Latin America and Caribbean",2017,15,19,"M","Point",41759,7.55835
+"Latin America and Caribbean",2017,15,19,"M","Upper",43211,7.81894
+"Latin America and Caribbean",2018,15,19,"M","Lower",39854,7.25313
+"Latin America and Caribbean",2018,15,19,"M","Point",41172,7.49285
+"Latin America and Caribbean",2018,15,19,"M","Upper",42790,7.78521
+"Latin America and Caribbean",2019,15,19,"M","Lower",38740,7.09242
+"Latin America and Caribbean",2019,15,19,"M","Point",40408,7.39632
+"Latin America and Caribbean",2019,15,19,"M","Upper",42455,7.76979
+"Middle East and North Africa",2000,15,19,"M","Lower",19562,5.29803
+"Middle East and North Africa",2000,15,19,"M","Point",20917,5.6644
+"Middle East and North Africa",2000,15,19,"M","Upper",22534,6.1001
+"Middle East and North Africa",2001,15,19,"M","Lower",19798,5.2435
+"Middle East and North Africa",2001,15,19,"M","Point",21049,5.57371
+"Middle East and North Africa",2001,15,19,"M","Upper",22539,5.96714
+"Middle East and North Africa",2002,15,19,"M","Lower",20030,5.2043
+"Middle East and North Africa",2002,15,19,"M","Point",21199,5.50676
+"Middle East and North Africa",2002,15,19,"M","Upper",22616,5.87419
+"Middle East and North Africa",2003,15,19,"M","Lower",24475,6.25599
+"Middle East and North Africa",2003,15,19,"M","Point",26119,6.67477
+"Middle East and North Africa",2003,15,19,"M","Upper",28203,7.20519
+"Middle East and North Africa",2004,15,19,"M","Lower",22587,5.71322
+"Middle East and North Africa",2004,15,19,"M","Point",24048,6.0813
+"Middle East and North Africa",2004,15,19,"M","Upper",25961,6.56353
+"Middle East and North Africa",2005,15,19,"M","Lower",23001,5.78607
+"Middle East and North Africa",2005,15,19,"M","Point",24514,6.16568
+"Middle East and North Africa",2005,15,19,"M","Upper",26592,6.68609
+"Middle East and North Africa",2006,15,19,"M","Lower",24812,6.20906
+"Middle East and North Africa",2006,15,19,"M","Point",26767,6.69642
+"Middle East and North Africa",2006,15,19,"M","Upper",29475,7.37119
+"Middle East and North Africa",2007,15,19,"M","Lower",24138,6.05072
+"Middle East and North Africa",2007,15,19,"M","Point",25881,6.48606
+"Middle East and North Africa",2007,15,19,"M","Upper",28370,7.10748
+"Middle East and North Africa",2008,15,19,"M","Lower",21765,5.49849
+"Middle East and North Africa",2008,15,19,"M","Point",22985,5.80694
+"Middle East and North Africa",2008,15,19,"M","Upper",24711,6.24009
+"Middle East and North Africa",2009,15,19,"M","Lower",20614,5.26707
+"Middle East and North Africa",2009,15,19,"M","Point",21774,5.56277
+"Middle East and North Africa",2009,15,19,"M","Upper",23370,5.9688
+"Middle East and North Africa",2010,15,19,"M","Lower",19784,5.11567
+"Middle East and North Africa",2010,15,19,"M","Point",20968,5.42036
+"Middle East and North Africa",2010,15,19,"M","Upper",22556,5.83017
+"Middle East and North Africa",2011,15,19,"M","Lower",20378,5.31553
+"Middle East and North Africa",2011,15,19,"M","Point",21656,5.64851
+"Middle East and North Africa",2011,15,19,"M","Upper",23301,6.07519
+"Middle East and North Africa",2012,15,19,"M","Lower",25616,6.74286
+"Middle East and North Africa",2012,15,19,"M","Point",27064,7.12256
+"Middle East and North Africa",2012,15,19,"M","Upper",28915,7.60763
+"Middle East and North Africa",2013,15,19,"M","Lower",27748,7.37793
+"Middle East and North Africa",2013,15,19,"M","Point",29605,7.86828
+"Middle East and North Africa",2013,15,19,"M","Upper",31809,8.45309
+"Middle East and North Africa",2014,15,19,"M","Lower",29923,8.03472
+"Middle East and North Africa",2014,15,19,"M","Point",32334,8.67822
+"Middle East and North Africa",2014,15,19,"M","Upper",35113,9.42168
+"Middle East and North Africa",2015,15,19,"M","Lower",26826,7.27321
+"Middle East and North Africa",2015,15,19,"M","Point",29071,7.88037
+"Middle East and North Africa",2015,15,19,"M","Upper",31714,8.59248
+"Middle East and North Africa",2016,15,19,"M","Lower",26024,7.06334
+"Middle East and North Africa",2016,15,19,"M","Point",28306,7.68052
+"Middle East and North Africa",2016,15,19,"M","Upper",31092,8.43288
+"Middle East and North Africa",2017,15,19,"M","Lower",23786,6.45787
+"Middle East and North Africa",2017,15,19,"M","Point",25798,7.00349
+"Middle East and North Africa",2017,15,19,"M","Upper",28341,7.68951
+"Middle East and North Africa",2018,15,19,"M","Lower",21091,5.71614
+"Middle East and North Africa",2018,15,19,"M","Point",22772,6.17042
+"Middle East and North Africa",2018,15,19,"M","Upper",24934,6.75374
+"Middle East and North Africa",2019,15,19,"M","Lower",19845,5.35295
+"Middle East and North Africa",2019,15,19,"M","Point",21520,5.80351
+"Middle East and North Africa",2019,15,19,"M","Upper",23557,6.3509
+"North America",2000,15,19,"M","Lower",10231,4.51791
+"North America",2000,15,19,"M","Point",10414,4.59803
+"North America",2000,15,19,"M","Upper",10596,4.67829
+"North America",2001,15,19,"M","Lower",10255,4.44804
+"North America",2001,15,19,"M","Point",10432,4.52458
+"North America",2001,15,19,"M","Upper",10613,4.60278
+"North America",2002,15,19,"M","Lower",10325,4.40711
+"North America",2002,15,19,"M","Point",10503,4.48303
+"North America",2002,15,19,"M","Upper",10683,4.55904
+"North America",2003,15,19,"M","Lower",10415,4.37967
+"North America",2003,15,19,"M","Point",10597,4.45615
+"North America",2003,15,19,"M","Upper",10786,4.53518
+"North America",2004,15,19,"M","Lower",10504,4.35357
+"North America",2004,15,19,"M","Point",10689,4.4296
+"North America",2004,15,19,"M","Upper",10897,4.51555
+"North America",2005,15,19,"M","Lower",10530,4.30202
+"North America",2005,15,19,"M","Point",10710,4.37507
+"North America",2005,15,19,"M","Upper",10927,4.46324
+"North America",2006,15,19,"M","Lower",10311,4.1875
+"North America",2006,15,19,"M","Point",10496,4.26223
+"North America",2006,15,19,"M","Upper",10705,4.34692
+"North America",2007,15,19,"M","Lower",9951,4.01223
+"North America",2007,15,19,"M","Point",10128,4.08362
+"North America",2007,15,19,"M","Upper",10311,4.15666
+"North America",2008,15,19,"M","Lower",9488,3.79904
+"North America",2008,15,19,"M","Point",9661,3.868
+"North America",2008,15,19,"M","Upper",9822,3.93201
+"North America",2009,15,19,"M","Lower",8980,3.57874
+"North America",2009,15,19,"M","Point",9152,3.64677
+"North America",2009,15,19,"M","Upper",9303,3.70686
+"North America",2010,15,19,"M","Lower",8480,3.37612
+"North America",2010,15,19,"M","Point",8655,3.44523
+"North America",2010,15,19,"M","Upper",8801,3.50341
+"North America",2011,15,19,"M","Lower",8069,3.21329
+"North America",2011,15,19,"M","Point",8243,3.28253
+"North America",2011,15,19,"M","Upper",8396,3.34292
+"North America",2012,15,19,"M","Lower",7761,3.11037
+"North America",2012,15,19,"M","Point",7926,3.17631
+"North America",2012,15,19,"M","Upper",8076,3.23607
+"North America",2013,15,19,"M","Lower",7579,3.07139
+"North America",2013,15,19,"M","Point",7730,3.13278
+"North America",2013,15,19,"M","Upper",7873,3.1899
+"North America",2014,15,19,"M","Lower",7551,3.09854
+"North America",2014,15,19,"M","Point",7697,3.15817
+"North America",2014,15,19,"M","Upper",7840,3.21629
+"North America",2015,15,19,"M","Lower",7647,3.17359
+"North America",2015,15,19,"M","Point",7803,3.23779
+"North America",2015,15,19,"M","Upper",7958,3.30181
+"North America",2016,15,19,"M","Lower",7835,3.26817
+"North America",2016,15,19,"M","Point",8024,3.34633
+"North America",2016,15,19,"M","Upper",8229,3.43178
+"North America",2017,15,19,"M","Lower",7984,3.3435
+"North America",2017,15,19,"M","Point",8246,3.4529
+"North America",2017,15,19,"M","Upper",8542,3.57612
+"North America",2018,15,19,"M","Lower",8021,3.36855
+"North America",2018,15,19,"M","Point",8399,3.52659
+"North America",2018,15,19,"M","Upper",8826,3.70559
+"North America",2019,15,19,"M","Lower",7797,3.28095
+"North America",2019,15,19,"M","Point",8407,3.53692
+"North America",2019,15,19,"M","Upper",9052,3.80768
+"South Asia",2000,15,19,"M","Lower",103492,6.82784
+"South Asia",2000,15,19,"M","Point",108206,7.13763
+"South Asia",2000,15,19,"M","Upper",114380,7.54341
+"South Asia",2001,15,19,"M","Lower",102716,6.65496
+"South Asia",2001,15,19,"M","Point",107441,6.96011
+"South Asia",2001,15,19,"M","Upper",113231,7.33371
+"South Asia",2002,15,19,"M","Lower",102383,6.52615
+"South Asia",2002,15,19,"M","Point",107032,6.82141
+"South Asia",2002,15,19,"M","Upper",112378,7.1609
+"South Asia",2003,15,19,"M","Lower",100959,6.34178
+"South Asia",2003,15,19,"M","Point",105877,6.64968
+"South Asia",2003,15,19,"M","Upper",111241,6.98535
+"South Asia",2004,15,19,"M","Lower",102654,6.3622
+"South Asia",2004,15,19,"M","Point",107575,6.66609
+"South Asia",2004,15,19,"M","Upper",112700,6.98256
+"South Asia",2005,15,19,"M","Lower",100568,6.15698
+"South Asia",2005,15,19,"M","Point",105417,6.45285
+"South Asia",2005,15,19,"M","Upper",110159,6.74216
+"South Asia",2006,15,19,"M","Lower",100810,6.11188
+"South Asia",2006,15,19,"M","Point",105387,6.38851
+"South Asia",2006,15,19,"M","Upper",110432,6.69324
+"South Asia",2007,15,19,"M","Lower",100284,6.02668
+"South Asia",2007,15,19,"M","Point",105428,6.33485
+"South Asia",2007,15,19,"M","Upper",110743,6.65305
+"South Asia",2008,15,19,"M","Lower",99942,5.95583
+"South Asia",2008,15,19,"M","Point",105739,6.30017
+"South Asia",2008,15,19,"M","Upper",112420,6.69685
+"South Asia",2009,15,19,"M","Lower",98455,5.81732
+"South Asia",2009,15,19,"M","Point",104781,6.1899
+"South Asia",2009,15,19,"M","Upper",112843,6.66461
+"South Asia",2010,15,19,"M","Lower",95228,5.57672
+"South Asia",2010,15,19,"M","Point",102070,5.97631
+"South Asia",2010,15,19,"M","Upper",110961,6.49502
+"South Asia",2011,15,19,"M","Lower",92712,5.38376
+"South Asia",2011,15,19,"M","Point",100015,5.80651
+"South Asia",2011,15,19,"M","Upper",109181,6.33703
+"South Asia",2012,15,19,"M","Lower",90321,5.19848
+"South Asia",2012,15,19,"M","Point",97905,5.63374
+"South Asia",2012,15,19,"M","Upper",107598,6.18974
+"South Asia",2013,15,19,"M","Lower",87751,5.0051
+"South Asia",2013,15,19,"M","Point",96005,5.4746
+"South Asia",2013,15,19,"M","Upper",106120,6.04962
+"South Asia",2014,15,19,"M","Lower",85401,4.82921
+"South Asia",2014,15,19,"M","Point",94250,5.32833
+"South Asia",2014,15,19,"M","Upper",104668,5.91546
+"South Asia",2015,15,19,"M","Lower",83480,4.68392
+"South Asia",2015,15,19,"M","Point",92992,5.21611
+"South Asia",2015,15,19,"M","Upper",104299,5.84858
+"South Asia",2016,15,19,"M","Lower",80539,4.49023
+"South Asia",2016,15,19,"M","Point",90703,5.05536
+"South Asia",2016,15,19,"M","Upper",103021,5.73998
+"South Asia",2017,15,19,"M","Lower",77815,4.31619
+"South Asia",2017,15,19,"M","Point",88955,4.93254
+"South Asia",2017,15,19,"M","Upper",101921,5.64948
+"South Asia",2018,15,19,"M","Lower",74589,4.11996
+"South Asia",2018,15,19,"M","Point",86940,4.80047
+"South Asia",2018,15,19,"M","Upper",100759,5.56144
+"South Asia",2019,15,19,"M","Lower",72302,3.97919
+"South Asia",2019,15,19,"M","Point",85059,4.67967
+"South Asia",2019,15,19,"M","Upper",99773,5.4869
+"West and central Africa",2000,15,19,"M","Lower",44690,12.97947
+"West and central Africa",2000,15,19,"M","Point",49829,14.46219
+"West and central Africa",2000,15,19,"M","Upper",55897,16.20784
+"West and central Africa",2001,15,19,"M","Lower",45450,12.89394
+"West and central Africa",2001,15,19,"M","Point",50457,14.30341
+"West and central Africa",2001,15,19,"M","Upper",56570,16.02302
+"West and central Africa",2002,15,19,"M","Lower",46308,12.82825
+"West and central Africa",2002,15,19,"M","Point",51225,14.18125
+"West and central Africa",2002,15,19,"M","Upper",57107,15.79615
+"West and central Africa",2003,15,19,"M","Lower",47155,12.74368
+"West and central Africa",2003,15,19,"M","Point",52108,14.07246
+"West and central Africa",2003,15,19,"M","Upper",57910,15.62749
+"West and central Africa",2004,15,19,"M","Lower",47580,12.53719
+"West and central Africa",2004,15,19,"M","Point",52569,13.84257
+"West and central Africa",2004,15,19,"M","Upper",58471,15.38452
+"West and central Africa",2005,15,19,"M","Lower",48388,12.42389
+"West and central Africa",2005,15,19,"M","Point",53473,13.72004
+"West and central Africa",2005,15,19,"M","Upper",59463,15.24556
+"West and central Africa",2006,15,19,"M","Lower",49292,12.36792
+"West and central Africa",2006,15,19,"M","Point",54486,13.66183
+"West and central Africa",2006,15,19,"M","Upper",60528,15.16558
+"West and central Africa",2007,15,19,"M","Lower",49810,12.19967
+"West and central Africa",2007,15,19,"M","Point",55144,13.49765
+"West and central Africa",2007,15,19,"M","Upper",61418,15.02117
+"West and central Africa",2008,15,19,"M","Lower",50762,12.12022
+"West and central Africa",2008,15,19,"M","Point",56136,13.39461
+"West and central Africa",2008,15,19,"M","Upper",62895,14.99504
+"West and central Africa",2009,15,19,"M","Lower",51431,11.95885
+"West and central Africa",2009,15,19,"M","Point",57226,13.29795
+"West and central Africa",2009,15,19,"M","Upper",64781,15.03936
+"West and central Africa",2010,15,19,"M","Lower",52308,11.83118
+"West and central Africa",2010,15,19,"M","Point",58435,13.20807
+"West and central Africa",2010,15,19,"M","Upper",66673,15.05567
+"West and central Africa",2011,15,19,"M","Lower",52986,11.68347
+"West and central Africa",2011,15,19,"M","Point",59572,13.12484
+"West and central Africa",2011,15,19,"M","Upper",68381,15.05232
+"West and central Africa",2012,15,19,"M","Lower",53756,11.53802
+"West and central Africa",2012,15,19,"M","Point",60824,13.04523
+"West and central Africa",2012,15,19,"M","Upper",70401,15.08337
+"West and central Africa",2013,15,19,"M","Lower",54853,11.44244
+"West and central Africa",2013,15,19,"M","Point",62327,12.99101
+"West and central Africa",2013,15,19,"M","Upper",72456,15.08647
+"West and central Africa",2014,15,19,"M","Lower",56131,11.3628
+"West and central Africa",2014,15,19,"M","Point",63966,12.9389
+"West and central Africa",2014,15,19,"M","Upper",75119,15.17721
+"West and central Africa",2015,15,19,"M","Lower",55821,10.95188
+"West and central Africa",2015,15,19,"M","Point",64366,12.61739
+"West and central Africa",2015,15,19,"M","Upper",76205,14.92131
+"West and central Africa",2016,15,19,"M","Lower",56122,10.6843
+"West and central Africa",2016,15,19,"M","Point",65250,12.41154
+"West and central Africa",2016,15,19,"M","Upper",77593,14.74145
+"West and central Africa",2017,15,19,"M","Lower",56457,10.41582
+"West and central Africa",2017,15,19,"M","Point",66257,12.21304
+"West and central Africa",2017,15,19,"M","Upper",79435,14.62373
+"West and central Africa",2018,15,19,"M","Lower",56506,10.09365
+"West and central Africa",2018,15,19,"M","Point",67023,11.96124
+"West and central Africa",2018,15,19,"M","Upper",81159,14.46526
+"West and central Africa",2019,15,19,"M","Lower",56419,9.75704
+"West and central Africa",2019,15,19,"M","Point",67664,11.69086
+"West and central Africa",2019,15,19,"M","Upper",82540,14.24214
+"Western Europe",2000,15,19,"M","Lower",9906,3.28877
+"Western Europe",2000,15,19,"M","Point",9976,3.31151
+"Western Europe",2000,15,19,"M","Upper",10048,3.33544
+"Western Europe",2001,15,19,"M","Lower",9551,3.17419
+"Western Europe",2001,15,19,"M","Point",9624,3.19698
+"Western Europe",2001,15,19,"M","Upper",9690,3.21995
+"Western Europe",2002,15,19,"M","Lower",9152,3.04768
+"Western Europe",2002,15,19,"M","Point",9221,3.07041
+"Western Europe",2002,15,19,"M","Upper",9288,3.09258
+"Western Europe",2003,15,19,"M","Lower",8730,2.91783
+"Western Europe",2003,15,19,"M","Point",8798,2.93961
+"Western Europe",2003,15,19,"M","Upper",8857,2.95976
+"Western Europe",2004,15,19,"M","Lower",8315,2.79429
+"Western Europe",2004,15,19,"M","Point",8377,2.81516
+"Western Europe",2004,15,19,"M","Upper",8437,2.83469
+"Western Europe",2005,15,19,"M","Lower",7927,2.68188
+"Western Europe",2005,15,19,"M","Point",7984,2.70152
+"Western Europe",2005,15,19,"M","Upper",8046,2.72164
+"Western Europe",2006,15,19,"M","Lower",7578,2.57736
+"Western Europe",2006,15,19,"M","Point",7639,2.59705
+"Western Europe",2006,15,19,"M","Upper",7694,2.61642
+"Western Europe",2007,15,19,"M","Lower",7239,2.47776
+"Western Europe",2007,15,19,"M","Point",7290,2.49614
+"Western Europe",2007,15,19,"M","Upper",7352,2.51633
+"Western Europe",2008,15,19,"M","Lower",6880,2.37336
+"Western Europe",2008,15,19,"M","Point",6931,2.39105
+"Western Europe",2008,15,19,"M","Upper",6987,2.41014
+"Western Europe",2009,15,19,"M","Lower",6484,2.25758
+"Western Europe",2009,15,19,"M","Point",6532,2.27516
+"Western Europe",2009,15,19,"M","Upper",6585,2.29242
+"Western Europe",2010,15,19,"M","Lower",6051,2.13075
+"Western Europe",2010,15,19,"M","Point",6098,2.14773
+"Western Europe",2010,15,19,"M","Upper",6146,2.16379
+"Western Europe",2011,15,19,"M","Lower",5622,2.00081
+"Western Europe",2011,15,19,"M","Point",5671,2.01745
+"Western Europe",2011,15,19,"M","Upper",5713,2.03283
+"Western Europe",2012,15,19,"M","Lower",5227,1.88191
+"Western Europe",2012,15,19,"M","Point",5270,1.8981
+"Western Europe",2012,15,19,"M","Upper",5315,1.91314
+"Western Europe",2013,15,19,"M","Lower",4886,1.78031
+"Western Europe",2013,15,19,"M","Point",4930,1.7962
+"Western Europe",2013,15,19,"M","Upper",4975,1.81247
+"Western Europe",2014,15,19,"M","Lower",4614,1.70033
+"Western Europe",2014,15,19,"M","Point",4658,1.71652
+"Western Europe",2014,15,19,"M","Upper",4703,1.73291
+"Western Europe",2015,15,19,"M","Lower",4422,1.64609
+"Western Europe",2015,15,19,"M","Point",4463,1.6622
+"Western Europe",2015,15,19,"M","Upper",4511,1.67876
+"Western Europe",2016,15,19,"M","Lower",4311,1.61554
+"Western Europe",2016,15,19,"M","Point",4353,1.63133
+"Western Europe",2016,15,19,"M","Upper",4402,1.64933
+"Western Europe",2017,15,19,"M","Lower",4251,1.6025
+"Western Europe",2017,15,19,"M","Point",4301,1.62106
+"Western Europe",2017,15,19,"M","Upper",4355,1.64136
+"Western Europe",2018,15,19,"M","Lower",4219,1.59742
+"Western Europe",2018,15,19,"M","Point",4281,1.61963
+"Western Europe",2018,15,19,"M","Upper",4348,1.6457
+"Western Europe",2019,15,19,"M","Lower",4181,1.58588
+"Western Europe",2019,15,19,"M","Point",4261,1.61535
+"Western Europe",2019,15,19,"M","Upper",4354,1.65111
