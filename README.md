@@ -1,6 +1,6 @@
 # National, regional, and global causes of mortality in 5–19-year-olds from 2000 to 2019: a systematic analysis
 
-## 2024 UPDATE!
+### 2024 UPDATE!
 Global, regional, and national **causes of death for children and adolescents younger than 20 years** for the period **2000–21**, produced by the Child and Adolescent Causes of Death Estimation (CA CODE) project at the Johns Hopkins University, in collaboration with the World Health Organization (WHO) and UNICEF, are now available at https://childmortality.org/.
 
 Estimates on causes of death are publicly available and free to download. The following bibliographic citation is suggested for the use of estimates produced by CA CODE:
