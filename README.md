@@ -3,7 +3,7 @@
 ### 2024 UPDATE!
 The most recent global, regional, and national **causes of death for children and adolescents younger than 20 years** for the period **2000–21**, produced by the Child and Adolescent Causes of Death Estimation (CA CODE) project at the Johns Hopkins University, in collaboration with the World Health Organization (WHO) and UNICEF, are now available at https://childmortality.org/causes-of-death/.
 
-Estimates on causes of death are publicly available and free to download. The following bibliographic citation is suggested for the use of estimates produced by CA CODE:
+Estimates on causes of death are publicly available and free to download. The following bibliographic citation is suggested for the use of mortality estimates produced by CA CODE:
 
 > Villavicencio F, Perin J, Eilerts-Spinelli H, et al. (2024). Global, regional, and national causes of death in children and adolescents younger than 20 years: an open data portal with estimates for 2000–21. *The Lancet Global Health* 12(1): e16–17. DOI: https://doi.org/10.1016/S2214-109X(23)00496-5.
 
